@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\bin\Debug\netcoreapp2.1\02.From1WithStep3.deps.json
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\bin\Debug\netcoreapp2.1\02.From1WithStep3.runtimeconfig.json
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\bin\Debug\netcoreapp2.1\02.From1WithStep3.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\bin\Debug\netcoreapp2.1\02.From1WithStep3.dll
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\bin\Debug\netcoreapp2.1\02.From1WithStep3.pdb
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\obj\Debug\netcoreapp2.1\02.From1WithStep3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\obj\Debug\netcoreapp2.1\02.From1WithStep3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\obj\Debug\netcoreapp2.1\02.From1WithStep3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\obj\Debug\netcoreapp2.1\02.From1WithStep3.dll
+C:\Users\Admin\source\repos\NestedLoops\02.From1WithStep3\obj\Debug\netcoreapp2.1\02.From1WithStep3.pdb

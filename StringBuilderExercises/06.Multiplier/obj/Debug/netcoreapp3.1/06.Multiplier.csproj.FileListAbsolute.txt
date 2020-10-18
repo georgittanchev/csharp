@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\bin\Debug\netcoreapp3.1\06.Multiplier.exe
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\bin\Debug\netcoreapp3.1\06.Multiplier.deps.json
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\bin\Debug\netcoreapp3.1\06.Multiplier.runtimeconfig.json
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\bin\Debug\netcoreapp3.1\06.Multiplier.runtimeconfig.dev.json
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\bin\Debug\netcoreapp3.1\06.Multiplier.dll
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\bin\Debug\netcoreapp3.1\06.Multiplier.pdb
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\obj\Debug\netcoreapp3.1\06.Multiplier.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\obj\Debug\netcoreapp3.1\06.Multiplier.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\obj\Debug\netcoreapp3.1\06.Multiplier.AssemblyInfo.cs
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\obj\Debug\netcoreapp3.1\06.Multiplier.dll
+C:\Users\georg\source\repos\StringBuilderExercises\06.Multiplier\obj\Debug\netcoreapp3.1\06.Multiplier.pdb

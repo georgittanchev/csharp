@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MyFirstExercises\ReLearningstuff\bin\Debug\ReLearningstuff.exe.config
+C:\Users\Admin\source\repos\MyFirstExercises\ReLearningstuff\bin\Debug\ReLearningstuff.exe
+C:\Users\Admin\source\repos\MyFirstExercises\ReLearningstuff\bin\Debug\ReLearningstuff.pdb
+C:\Users\Admin\source\repos\MyFirstExercises\ReLearningstuff\obj\Debug\ReLearningstuff.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ReLearningstuff\obj\Debug\ReLearningstuff.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ReLearningstuff\obj\Debug\ReLearningstuff.exe
+C:\Users\Admin\source\repos\MyFirstExercises\ReLearningstuff\obj\Debug\ReLearningstuff.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.LeftOrRight.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.LeftOrRight.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.LeftOrRight.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.LeftOrRight.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.LeftOrRight.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.LeftOrRight.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.LeftOrRight.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.LeftOrRight.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.LeftOrRight.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.LeftOrRight.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.LeftOrRight.pdb

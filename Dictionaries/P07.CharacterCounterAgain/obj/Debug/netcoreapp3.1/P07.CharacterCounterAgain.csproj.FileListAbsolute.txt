@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\bin\Debug\netcoreapp3.1\P07.CharacterCounterAgain.exe
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\bin\Debug\netcoreapp3.1\P07.CharacterCounterAgain.deps.json
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\bin\Debug\netcoreapp3.1\P07.CharacterCounterAgain.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\bin\Debug\netcoreapp3.1\P07.CharacterCounterAgain.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\bin\Debug\netcoreapp3.1\P07.CharacterCounterAgain.dll
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\bin\Debug\netcoreapp3.1\P07.CharacterCounterAgain.pdb
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\obj\Debug\netcoreapp3.1\P07.CharacterCounterAgain.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\obj\Debug\netcoreapp3.1\P07.CharacterCounterAgain.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\obj\Debug\netcoreapp3.1\P07.CharacterCounterAgain.dll
+C:\Users\georg\source\repos\Dictionaries\P07.CharacterCounterAgain\obj\Debug\netcoreapp3.1\P07.CharacterCounterAgain.pdb

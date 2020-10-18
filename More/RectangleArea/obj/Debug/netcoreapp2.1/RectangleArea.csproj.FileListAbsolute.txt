@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\More\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.deps.json
+C:\Users\Admin\source\repos\More\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.json
+C:\Users\Admin\source\repos\More\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\More\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\Admin\source\repos\More\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.pdb
+C:\Users\Admin\source\repos\More\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\More\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\More\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfo.cs
+C:\Users\Admin\source\repos\More\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\Admin\source\repos\More\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.pdb

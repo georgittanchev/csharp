@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\More\Radians\bin\Debug\netcoreapp2.1\Radians.deps.json
+C:\Users\Admin\source\repos\More\Radians\bin\Debug\netcoreapp2.1\Radians.runtimeconfig.json
+C:\Users\Admin\source\repos\More\Radians\bin\Debug\netcoreapp2.1\Radians.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\More\Radians\bin\Debug\netcoreapp2.1\Radians.dll
+C:\Users\Admin\source\repos\More\Radians\bin\Debug\netcoreapp2.1\Radians.pdb
+C:\Users\Admin\source\repos\More\Radians\obj\Debug\netcoreapp2.1\Radians.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\More\Radians\obj\Debug\netcoreapp2.1\Radians.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\More\Radians\obj\Debug\netcoreapp2.1\Radians.AssemblyInfo.cs
+C:\Users\Admin\source\repos\More\Radians\obj\Debug\netcoreapp2.1\Radians.dll
+C:\Users\Admin\source\repos\More\Radians\obj\Debug\netcoreapp2.1\Radians.pdb

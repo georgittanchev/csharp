@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\bin\Debug\netcoreapp2.1\002.SumDigits.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\bin\Debug\netcoreapp2.1\002.SumDigits.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\bin\Debug\netcoreapp2.1\002.SumDigits.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\bin\Debug\netcoreapp2.1\002.SumDigits.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\bin\Debug\netcoreapp2.1\002.SumDigits.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\obj\Debug\netcoreapp2.1\002.SumDigits.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\obj\Debug\netcoreapp2.1\002.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\obj\Debug\netcoreapp2.1\002.SumDigits.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\obj\Debug\netcoreapp2.1\002.SumDigits.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\obj\Debug\netcoreapp2.1\002.SumDigits.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\002.SumDigits\obj\Debug\netcoreapp2.1\002.SumDigits.pdb

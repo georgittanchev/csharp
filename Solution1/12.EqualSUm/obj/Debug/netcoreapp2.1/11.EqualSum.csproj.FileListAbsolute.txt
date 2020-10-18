@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\bin\Debug\netcoreapp2.1\11.EqualSum.deps.json
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\bin\Debug\netcoreapp2.1\11.EqualSum.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\bin\Debug\netcoreapp2.1\11.EqualSum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\bin\Debug\netcoreapp2.1\11.EqualSum.dll
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\bin\Debug\netcoreapp2.1\11.EqualSum.pdb
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\obj\Debug\netcoreapp2.1\11.EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\obj\Debug\netcoreapp2.1\11.EqualSum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\obj\Debug\netcoreapp2.1\11.EqualSum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\obj\Debug\netcoreapp2.1\11.EqualSum.dll
+C:\Users\Admin\source\repos\Solution1\12.EqualSUm\obj\Debug\netcoreapp2.1\11.EqualSum.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\bin\Debug\netcoreapp2.1\05.DogFood.deps.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\bin\Debug\netcoreapp2.1\05.DogFood.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\bin\Debug\netcoreapp2.1\05.DogFood.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\bin\Debug\netcoreapp2.1\05.DogFood.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\bin\Debug\netcoreapp2.1\05.DogFood.pdb
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\obj\Debug\netcoreapp2.1\05.DogFood.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\obj\Debug\netcoreapp2.1\05.DogFood.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\obj\Debug\netcoreapp2.1\05.DogFood.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\obj\Debug\netcoreapp2.1\05.DogFood.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\05.DogFood\obj\Debug\netcoreapp2.1\05.DogFood.pdb

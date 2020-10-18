@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\bin\Debug\netcoreapp2.1\05. SameNumbers.deps.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\bin\Debug\netcoreapp2.1\05. SameNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\bin\Debug\netcoreapp2.1\05. SameNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\bin\Debug\netcoreapp2.1\05. SameNumbers.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\bin\Debug\netcoreapp2.1\05. SameNumbers.pdb
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\obj\Debug\netcoreapp2.1\05. SameNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\obj\Debug\netcoreapp2.1\05. SameNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\obj\Debug\netcoreapp2.1\05. SameNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\obj\Debug\netcoreapp2.1\05. SameNumbers.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp4\obj\Debug\netcoreapp2.1\05. SameNumbers.pdb

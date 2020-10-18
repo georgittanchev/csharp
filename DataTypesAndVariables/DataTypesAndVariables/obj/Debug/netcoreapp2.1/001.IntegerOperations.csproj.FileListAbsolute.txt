@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp2.1\001.IntegerOperations.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp2.1\001.IntegerOperations.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp2.1\001.IntegerOperations.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp2.1\001.IntegerOperations.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp2.1\001.IntegerOperations.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp2.1\001.IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp2.1\001.IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp2.1\001.IntegerOperations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp2.1\001.IntegerOperations.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp2.1\001.IntegerOperations.pdb

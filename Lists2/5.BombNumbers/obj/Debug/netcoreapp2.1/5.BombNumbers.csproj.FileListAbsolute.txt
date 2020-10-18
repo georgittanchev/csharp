@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.deps.json
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.dll
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\bin\Debug\netcoreapp2.1\5.BombNumbers.pdb
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.dll
+C:\Users\Admin\source\repos\Lists2\5.BombNumbers\obj\Debug\netcoreapp2.1\5.BombNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\bin\Debug\netcoreapp2.1\12.PrimeNumbers.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\bin\Debug\netcoreapp2.1\12.PrimeNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\bin\Debug\netcoreapp2.1\12.PrimeNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\bin\Debug\netcoreapp2.1\12.PrimeNumbers.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\bin\Debug\netcoreapp2.1\12.PrimeNumbers.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\obj\Debug\netcoreapp2.1\12.PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\obj\Debug\netcoreapp2.1\12.PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\obj\Debug\netcoreapp2.1\12.PrimeNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\obj\Debug\netcoreapp2.1\12.PrimeNumbers.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\12.PrimeNumbers\obj\Debug\netcoreapp2.1\12.PrimeNumbers.pdb

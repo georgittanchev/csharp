@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFOXsPj6uuegwvwKVmWNpLZpg8+4u7Usb7uDj4jwaApKFM0aD8H2FRBBlnQAyWnGWQA6aCXyuLK6i7dYKqtOmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\MidExam\\MidExam\\1.GiftBoxCoverage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

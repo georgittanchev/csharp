@@ -1,0 +1,6 @@
+c:\users\admin\source\repos\MyFirstExercises\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\admin\source\repos\MyFirstExercises\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\admin\source\repos\MyFirstExercises\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\admin\source\repos\MyFirstExercises\ConsoleApp3\obj\Debug\4. PrintMyNames.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\MyFirstExercises\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\admin\source\repos\MyFirstExercises\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

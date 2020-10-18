@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\bin\Debug\netcoreapp3.1\01.Triangle.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\bin\Debug\netcoreapp3.1\01.Triangle.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\bin\Debug\netcoreapp3.1\01.Triangle.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\bin\Debug\netcoreapp3.1\01.Triangle.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\bin\Debug\netcoreapp3.1\01.Triangle.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\bin\Debug\netcoreapp3.1\01.Triangle.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\obj\Debug\netcoreapp3.1\01.Triangle.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\obj\Debug\netcoreapp3.1\01.Triangle.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\obj\Debug\netcoreapp3.1\01.Triangle.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\obj\Debug\netcoreapp3.1\01.Triangle.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp1\obj\Debug\netcoreapp3.1\01.Triangle.pdb

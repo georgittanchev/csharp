@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\bin\Debug\netcoreapp2.1\01.NumbersInRange2.deps.json
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\bin\Debug\netcoreapp2.1\01.NumbersInRange2.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\bin\Debug\netcoreapp2.1\01.NumbersInRange2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\bin\Debug\netcoreapp2.1\01.NumbersInRange2.dll
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\bin\Debug\netcoreapp2.1\01.NumbersInRange2.pdb
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\obj\Debug\netcoreapp2.1\01.NumbersInRange2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\obj\Debug\netcoreapp2.1\01.NumbersInRange2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\obj\Debug\netcoreapp2.1\01.NumbersInRange2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\obj\Debug\netcoreapp2.1\01.NumbersInRange2.dll
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange2\obj\Debug\netcoreapp2.1\01.NumbersInRange2.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\bin\Debug\netcoreapp2.1\07.Yardening.deps.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\bin\Debug\netcoreapp2.1\07.Yardening.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\bin\Debug\netcoreapp2.1\07.Yardening.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\bin\Debug\netcoreapp2.1\07.Yardening.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\bin\Debug\netcoreapp2.1\07.Yardening.pdb
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\obj\Debug\netcoreapp2.1\07.Yardening.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\obj\Debug\netcoreapp2.1\07.Yardening.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\obj\Debug\netcoreapp2.1\07.Yardening.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\obj\Debug\netcoreapp2.1\07.Yardening.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\07.Yardening\obj\Debug\netcoreapp2.1\07.Yardening.pdb

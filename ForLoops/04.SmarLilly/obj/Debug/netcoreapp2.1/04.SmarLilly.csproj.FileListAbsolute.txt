@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\bin\Debug\netcoreapp2.1\04.SmarLilly.deps.json
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\bin\Debug\netcoreapp2.1\04.SmarLilly.runtimeconfig.json
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\bin\Debug\netcoreapp2.1\04.SmarLilly.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\bin\Debug\netcoreapp2.1\04.SmarLilly.dll
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\bin\Debug\netcoreapp2.1\04.SmarLilly.pdb
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\obj\Debug\netcoreapp2.1\04.SmarLilly.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\obj\Debug\netcoreapp2.1\04.SmarLilly.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\obj\Debug\netcoreapp2.1\04.SmarLilly.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\obj\Debug\netcoreapp2.1\04.SmarLilly.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\obj\Debug\netcoreapp2.1\04.SmarLilly.dll
+C:\Users\Admin\source\repos\ForLoops\04.SmarLilly\obj\Debug\netcoreapp2.1\04.SmarLilly.pdb

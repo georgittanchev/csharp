@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\bin\Debug\netcoreapp2.1\03.Nums1To20.deps.json
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\bin\Debug\netcoreapp2.1\03.Nums1To20.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\bin\Debug\netcoreapp2.1\03.Nums1To20.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\bin\Debug\netcoreapp2.1\03.Nums1To20.dll
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\bin\Debug\netcoreapp2.1\03.Nums1To20.pdb
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\obj\Debug\netcoreapp2.1\03.Nums1To20.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\obj\Debug\netcoreapp2.1\03.Nums1To20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\obj\Debug\netcoreapp2.1\03.Nums1To20.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\obj\Debug\netcoreapp2.1\03.Nums1To20.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\obj\Debug\netcoreapp2.1\03.Nums1To20.dll
+C:\Users\Admin\source\repos\FirstProjects\Nums1To20\obj\Debug\netcoreapp2.1\03.Nums1To20.pdb

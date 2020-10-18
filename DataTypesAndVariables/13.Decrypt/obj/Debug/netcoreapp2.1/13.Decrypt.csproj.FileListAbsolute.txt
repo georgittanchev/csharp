@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\bin\Debug\netcoreapp2.1\13.Decrypt.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\bin\Debug\netcoreapp2.1\13.Decrypt.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\bin\Debug\netcoreapp2.1\13.Decrypt.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\bin\Debug\netcoreapp2.1\13.Decrypt.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\bin\Debug\netcoreapp2.1\13.Decrypt.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\obj\Debug\netcoreapp2.1\13.Decrypt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\obj\Debug\netcoreapp2.1\13.Decrypt.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\obj\Debug\netcoreapp2.1\13.Decrypt.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\obj\Debug\netcoreapp2.1\13.Decrypt.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\13.Decrypt\obj\Debug\netcoreapp2.1\13.Decrypt.pdb

@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\bin\Debug\netcoreapp3.1\04.Furniture.exe
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\bin\Debug\netcoreapp3.1\04.Furniture.deps.json
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\bin\Debug\netcoreapp3.1\04.Furniture.runtimeconfig.json
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\bin\Debug\netcoreapp3.1\04.Furniture.runtimeconfig.dev.json
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\bin\Debug\netcoreapp3.1\04.Furniture.dll
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\bin\Debug\netcoreapp3.1\04.Furniture.pdb
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\obj\Debug\netcoreapp3.1\04.Furniture.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\obj\Debug\netcoreapp3.1\04.Furniture.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\obj\Debug\netcoreapp3.1\04.Furniture.AssemblyInfo.cs
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\obj\Debug\netcoreapp3.1\04.Furniture.dll
+C:\Users\georg\source\repos\RegularExpressions\04.Furniture\obj\Debug\netcoreapp3.1\04.Furniture.pdb

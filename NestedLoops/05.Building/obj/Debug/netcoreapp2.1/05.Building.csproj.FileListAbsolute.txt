@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\NestedLoops\05.Building\bin\Debug\netcoreapp2.1\05.Building.deps.json
+C:\Users\Admin\source\repos\NestedLoops\05.Building\bin\Debug\netcoreapp2.1\05.Building.runtimeconfig.json
+C:\Users\Admin\source\repos\NestedLoops\05.Building\bin\Debug\netcoreapp2.1\05.Building.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NestedLoops\05.Building\bin\Debug\netcoreapp2.1\05.Building.dll
+C:\Users\Admin\source\repos\NestedLoops\05.Building\bin\Debug\netcoreapp2.1\05.Building.pdb
+C:\Users\Admin\source\repos\NestedLoops\05.Building\obj\Debug\netcoreapp2.1\05.Building.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NestedLoops\05.Building\obj\Debug\netcoreapp2.1\05.Building.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\05.Building\obj\Debug\netcoreapp2.1\05.Building.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\05.Building\obj\Debug\netcoreapp2.1\05.Building.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NestedLoops\05.Building\obj\Debug\netcoreapp2.1\05.Building.dll
+C:\Users\Admin\source\repos\NestedLoops\05.Building\obj\Debug\netcoreapp2.1\05.Building.pdb

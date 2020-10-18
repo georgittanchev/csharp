@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\bin\Debug\netcoreapp2.1\12.ToyStore.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\bin\Debug\netcoreapp2.1\12.ToyStore.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\bin\Debug\netcoreapp2.1\12.ToyStore.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\bin\Debug\netcoreapp2.1\12.ToyStore.dll
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\bin\Debug\netcoreapp2.1\12.ToyStore.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\obj\Debug\netcoreapp2.1\12.ToyStore.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\obj\Debug\netcoreapp2.1\12.ToyStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\obj\Debug\netcoreapp2.1\12.ToyStore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\obj\Debug\netcoreapp2.1\12.ToyStore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\obj\Debug\netcoreapp2.1\12.ToyStore.dll
+C:\Users\Admin\source\repos\ConditionalStatements\12.ToyStore\obj\Debug\netcoreapp2.1\12.ToyStore.pdb

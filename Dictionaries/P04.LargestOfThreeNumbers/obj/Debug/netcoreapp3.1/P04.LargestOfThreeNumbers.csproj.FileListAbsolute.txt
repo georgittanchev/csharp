@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.exe
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.deps.json
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.dll
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\bin\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.pdb
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.dll
+C:\Users\georg\source\repos\Dictionaries\P04.LargestOfThreeNumbers\obj\Debug\netcoreapp3.1\P04.LargestOfThreeNumbers.pdb

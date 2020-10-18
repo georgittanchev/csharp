@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\bin\Debug\netcoreapp3.1\8.BonusScoringSystem.exe
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\bin\Debug\netcoreapp3.1\8.BonusScoringSystem.deps.json
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\bin\Debug\netcoreapp3.1\8.BonusScoringSystem.runtimeconfig.json
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\bin\Debug\netcoreapp3.1\8.BonusScoringSystem.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\bin\Debug\netcoreapp3.1\8.BonusScoringSystem.dll
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\bin\Debug\netcoreapp3.1\8.BonusScoringSystem.pdb
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\obj\Debug\netcoreapp3.1\8.BonusScoringSystem.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\obj\Debug\netcoreapp3.1\8.BonusScoringSystem.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\obj\Debug\netcoreapp3.1\8.BonusScoringSystem.AssemblyInfo.cs
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\obj\Debug\netcoreapp3.1\8.BonusScoringSystem.dll
+C:\Users\georg\source\repos\MidExam\8.BonusScoringSystem\obj\Debug\netcoreapp3.1\8.BonusScoringSystem.pdb

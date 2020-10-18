@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\bin\Debug\netcoreapp2.1\08.InchestoCentimeters.deps.json
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\bin\Debug\netcoreapp2.1\08.InchestoCentimeters.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\bin\Debug\netcoreapp2.1\08.InchestoCentimeters.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\bin\Debug\netcoreapp2.1\08.InchestoCentimeters.dll
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\bin\Debug\netcoreapp2.1\08.InchestoCentimeters.pdb
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\obj\Debug\netcoreapp2.1\08.InchestoCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\obj\Debug\netcoreapp2.1\08.InchestoCentimeters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\obj\Debug\netcoreapp2.1\08.InchestoCentimeters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\obj\Debug\netcoreapp2.1\08.InchestoCentimeters.dll
+C:\Users\Admin\source\repos\FirstProjects\08.InchestoCentimeters\obj\Debug\netcoreapp2.1\08.InchestoCentimeters.pdb

@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\MyFirstExercises\7. AfterTenYears\bin\Debug\_7.AfterTenYears.exe.config
+c:\users\admin\source\repos\MyFirstExercises\7. AfterTenYears\bin\Debug\_7.AfterTenYears.exe
+c:\users\admin\source\repos\MyFirstExercises\7. AfterTenYears\bin\Debug\_7.AfterTenYears.pdb
+c:\users\admin\source\repos\MyFirstExercises\7. AfterTenYears\obj\Debug\7. AfterTenYears.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\MyFirstExercises\7. AfterTenYears\obj\Debug\_7.AfterTenYears.exe
+c:\users\admin\source\repos\MyFirstExercises\7. AfterTenYears\obj\Debug\_7.AfterTenYears.pdb
+C:\Users\Admin\source\repos\MyFirstExercises\7. AfterTenYears\obj\Debug\7. AfterTenYears.csprojAssemblyReference.cache

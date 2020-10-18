@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\bin\Debug\netcoreapp2.1\09.MagicNumbers.deps.json
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\bin\Debug\netcoreapp2.1\09.MagicNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\bin\Debug\netcoreapp2.1\09.MagicNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\bin\Debug\netcoreapp2.1\09.MagicNumbers.dll
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\bin\Debug\netcoreapp2.1\09.MagicNumbers.pdb
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\obj\Debug\netcoreapp2.1\09.MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\obj\Debug\netcoreapp2.1\09.MagicNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\obj\Debug\netcoreapp2.1\09.MagicNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\obj\Debug\netcoreapp2.1\09.MagicNumbers.dll
+C:\Users\Admin\source\repos\NestedLoops\09.MagicNumbers\obj\Debug\netcoreapp2.1\09.MagicNumbers.pdb

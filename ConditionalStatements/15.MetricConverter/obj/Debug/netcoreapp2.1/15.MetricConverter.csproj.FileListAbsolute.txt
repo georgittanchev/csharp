@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\bin\Debug\netcoreapp2.1\15.MetricConverter.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\bin\Debug\netcoreapp2.1\15.MetricConverter.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\bin\Debug\netcoreapp2.1\15.MetricConverter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\bin\Debug\netcoreapp2.1\15.MetricConverter.dll
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\bin\Debug\netcoreapp2.1\15.MetricConverter.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\obj\Debug\netcoreapp2.1\15.MetricConverter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\obj\Debug\netcoreapp2.1\15.MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\obj\Debug\netcoreapp2.1\15.MetricConverter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\obj\Debug\netcoreapp2.1\15.MetricConverter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\obj\Debug\netcoreapp2.1\15.MetricConverter.dll
+C:\Users\Admin\source\repos\ConditionalStatements\15.MetricConverter\obj\Debug\netcoreapp2.1\15.MetricConverter.pdb

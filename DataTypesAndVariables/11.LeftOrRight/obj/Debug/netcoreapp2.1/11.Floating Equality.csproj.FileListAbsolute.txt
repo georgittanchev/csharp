@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.Floating Equality.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.Floating Equality.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.Floating Equality.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.Floating Equality.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\bin\Debug\netcoreapp2.1\11.Floating Equality.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.Floating Equality.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.Floating Equality.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.Floating Equality.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.Floating Equality.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\11.LeftOrRight\obj\Debug\netcoreapp2.1\11.Floating Equality.pdb

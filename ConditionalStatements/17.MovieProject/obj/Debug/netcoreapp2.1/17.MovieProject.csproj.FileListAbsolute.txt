@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\bin\Debug\netcoreapp2.1\17.MovieProject.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\bin\Debug\netcoreapp2.1\17.MovieProject.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\bin\Debug\netcoreapp2.1\17.MovieProject.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\bin\Debug\netcoreapp2.1\17.MovieProject.dll
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\bin\Debug\netcoreapp2.1\17.MovieProject.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\obj\Debug\netcoreapp2.1\17.MovieProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\obj\Debug\netcoreapp2.1\17.MovieProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\obj\Debug\netcoreapp2.1\17.MovieProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\obj\Debug\netcoreapp2.1\17.MovieProject.dll
+C:\Users\Admin\source\repos\ConditionalStatements\17.MovieProject\obj\Debug\netcoreapp2.1\17.MovieProject.pdb

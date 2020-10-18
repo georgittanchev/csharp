@@ -1,0 +1,6 @@
+c:\users\admin\source\repos\MyFirstExercises\CurrentTime\bin\Debug\CurrentTime.exe.config
+c:\users\admin\source\repos\MyFirstExercises\CurrentTime\bin\Debug\CurrentTime.exe
+c:\users\admin\source\repos\MyFirstExercises\CurrentTime\bin\Debug\CurrentTime.pdb
+c:\users\admin\source\repos\MyFirstExercises\CurrentTime\obj\Debug\CurrentTime.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\MyFirstExercises\CurrentTime\obj\Debug\CurrentTime.exe
+c:\users\admin\source\repos\MyFirstExercises\CurrentTime\obj\Debug\CurrentTime.pdb

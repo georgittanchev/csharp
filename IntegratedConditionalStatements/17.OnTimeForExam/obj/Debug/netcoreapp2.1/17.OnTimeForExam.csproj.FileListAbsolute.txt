@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\bin\Debug\netcoreapp2.1\17.OnTimeForExam.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\bin\Debug\netcoreapp2.1\17.OnTimeForExam.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\bin\Debug\netcoreapp2.1\17.OnTimeForExam.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\bin\Debug\netcoreapp2.1\17.OnTimeForExam.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\bin\Debug\netcoreapp2.1\17.OnTimeForExam.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\obj\Debug\netcoreapp2.1\17.OnTimeForExam.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\obj\Debug\netcoreapp2.1\17.OnTimeForExam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\obj\Debug\netcoreapp2.1\17.OnTimeForExam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\obj\Debug\netcoreapp2.1\17.OnTimeForExam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\obj\Debug\netcoreapp2.1\17.OnTimeForExam.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\17.OnTimeForExam\obj\Debug\netcoreapp2.1\17.OnTimeForExam.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\bin\Debug\netcoreapp2.1\01.LeftAndRightSum.deps.json
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\bin\Debug\netcoreapp2.1\01.LeftAndRightSum.runtimeconfig.json
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\bin\Debug\netcoreapp2.1\01.LeftAndRightSum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\bin\Debug\netcoreapp2.1\01.LeftAndRightSum.dll
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\bin\Debug\netcoreapp2.1\01.LeftAndRightSum.pdb
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\obj\Debug\netcoreapp2.1\01.LeftAndRightSum.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\obj\Debug\netcoreapp2.1\01.LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\obj\Debug\netcoreapp2.1\01.LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\obj\Debug\netcoreapp2.1\01.LeftAndRightSum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\obj\Debug\netcoreapp2.1\01.LeftAndRightSum.dll
+C:\Users\Admin\source\repos\ForLoops\01.LeftAndRightSum\obj\Debug\netcoreapp2.1\01.LeftAndRightSum.pdb

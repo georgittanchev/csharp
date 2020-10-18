@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Resources\Resources\bin\Debug\netcoreapp3.1\Resources.exe
+C:\Users\georg\source\repos\Resources\Resources\bin\Debug\netcoreapp3.1\Resources.deps.json
+C:\Users\georg\source\repos\Resources\Resources\bin\Debug\netcoreapp3.1\Resources.runtimeconfig.json
+C:\Users\georg\source\repos\Resources\Resources\bin\Debug\netcoreapp3.1\Resources.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Resources\Resources\bin\Debug\netcoreapp3.1\Resources.dll
+C:\Users\georg\source\repos\Resources\Resources\bin\Debug\netcoreapp3.1\Resources.pdb
+C:\Users\georg\source\repos\Resources\Resources\obj\Debug\netcoreapp3.1\Resources.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Resources\Resources\obj\Debug\netcoreapp3.1\Resources.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Resources\Resources\obj\Debug\netcoreapp3.1\Resources.AssemblyInfo.cs
+C:\Users\georg\source\repos\Resources\Resources\obj\Debug\netcoreapp3.1\Resources.dll
+C:\Users\georg\source\repos\Resources\Resources\obj\Debug\netcoreapp3.1\Resources.pdb

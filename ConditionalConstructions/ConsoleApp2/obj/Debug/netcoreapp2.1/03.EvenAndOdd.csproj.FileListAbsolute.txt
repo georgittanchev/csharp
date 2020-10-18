@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\bin\Debug\netcoreapp2.1\03.EvenAndOdd.deps.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\bin\Debug\netcoreapp2.1\03.EvenAndOdd.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\bin\Debug\netcoreapp2.1\03.EvenAndOdd.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\bin\Debug\netcoreapp2.1\03.EvenAndOdd.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\bin\Debug\netcoreapp2.1\03.EvenAndOdd.pdb
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\obj\Debug\netcoreapp2.1\03.EvenAndOdd.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\obj\Debug\netcoreapp2.1\03.EvenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\obj\Debug\netcoreapp2.1\03.EvenAndOdd.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\obj\Debug\netcoreapp2.1\03.EvenAndOdd.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\obj\Debug\netcoreapp2.1\03.EvenAndOdd.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp2\obj\Debug\netcoreapp2.1\03.EvenAndOdd.pdb

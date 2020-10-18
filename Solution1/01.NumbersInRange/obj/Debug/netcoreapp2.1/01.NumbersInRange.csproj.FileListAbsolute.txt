@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\bin\Debug\netcoreapp2.1\01.NumbersInRange.deps.json
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\bin\Debug\netcoreapp2.1\01.NumbersInRange.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\bin\Debug\netcoreapp2.1\01.NumbersInRange.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\bin\Debug\netcoreapp2.1\01.NumbersInRange.dll
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\bin\Debug\netcoreapp2.1\01.NumbersInRange.pdb
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\obj\Debug\netcoreapp2.1\01.NumbersInRange.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\obj\Debug\netcoreapp2.1\01.NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\obj\Debug\netcoreapp2.1\01.NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\obj\Debug\netcoreapp2.1\01.NumbersInRange.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\obj\Debug\netcoreapp2.1\01.NumbersInRange.dll
+C:\Users\Admin\source\repos\Solution1\01.NumbersInRange\obj\Debug\netcoreapp2.1\01.NumbersInRange.pdb

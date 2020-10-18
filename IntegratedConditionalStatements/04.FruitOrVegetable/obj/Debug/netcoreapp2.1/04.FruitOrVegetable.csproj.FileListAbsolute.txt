@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\bin\Debug\netcoreapp2.1\04.FruitOrVegetable.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\bin\Debug\netcoreapp2.1\04.FruitOrVegetable.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\bin\Debug\netcoreapp2.1\04.FruitOrVegetable.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\bin\Debug\netcoreapp2.1\04.FruitOrVegetable.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\bin\Debug\netcoreapp2.1\04.FruitOrVegetable.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\obj\Debug\netcoreapp2.1\04.FruitOrVegetable.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\obj\Debug\netcoreapp2.1\04.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\obj\Debug\netcoreapp2.1\04.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\obj\Debug\netcoreapp2.1\04.FruitOrVegetable.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\obj\Debug\netcoreapp2.1\04.FruitOrVegetable.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\04.FruitOrVegetable\obj\Debug\netcoreapp2.1\04.FruitOrVegetable.pdb

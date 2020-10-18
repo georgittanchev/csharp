@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07.ListManipulationAdvanced.deps.json
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07.ListManipulationAdvanced.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07.ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07.ListManipulationAdvanced.dll
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\bin\Debug\netcoreapp2.1\07.ListManipulationAdvanced.pdb
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07.ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07.ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07.ListManipulationAdvanced.dll
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07.ListManipulationAdvanced.pdb
+C:\Users\Admin\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\netcoreapp2.1\07.ListManipulationAdvanced.csprojAssemblyReference.cache

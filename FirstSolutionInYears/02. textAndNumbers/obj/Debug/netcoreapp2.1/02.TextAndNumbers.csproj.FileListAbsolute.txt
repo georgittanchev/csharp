@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\bin\Debug\netcoreapp2.1\02.TextAndNumbers.deps.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\bin\Debug\netcoreapp2.1\02.TextAndNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\bin\Debug\netcoreapp2.1\02.TextAndNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\bin\Debug\netcoreapp2.1\02.TextAndNumbers.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\bin\Debug\netcoreapp2.1\02.TextAndNumbers.pdb
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\obj\Debug\netcoreapp2.1\02.TextAndNumbers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\obj\Debug\netcoreapp2.1\02.TextAndNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\obj\Debug\netcoreapp2.1\02.TextAndNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\obj\Debug\netcoreapp2.1\02.TextAndNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\obj\Debug\netcoreapp2.1\02.TextAndNumbers.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\02. textAndNumbers\obj\Debug\netcoreapp2.1\02.TextAndNumbers.pdb

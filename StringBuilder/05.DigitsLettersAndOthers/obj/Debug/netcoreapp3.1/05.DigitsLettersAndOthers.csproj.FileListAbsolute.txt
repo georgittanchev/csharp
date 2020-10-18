@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\bin\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.exe
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\bin\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.deps.json
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\bin\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.runtimeconfig.json
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\bin\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\bin\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.dll
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\bin\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.pdb
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\obj\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\obj\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\obj\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.AssemblyInfo.cs
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\obj\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.dll
+C:\Users\georg\source\repos\StringBuilder\05.DigitsLettersAndOthers\obj\Debug\netcoreapp3.1\05.DigitsLettersAndOthers.pdb

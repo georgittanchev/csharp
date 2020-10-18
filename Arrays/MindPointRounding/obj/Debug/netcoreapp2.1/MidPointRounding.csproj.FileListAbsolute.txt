@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\bin\Debug\netcoreapp2.1\MidPointRounding.deps.json
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\bin\Debug\netcoreapp2.1\MidPointRounding.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\bin\Debug\netcoreapp2.1\MidPointRounding.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\bin\Debug\netcoreapp2.1\MidPointRounding.dll
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\bin\Debug\netcoreapp2.1\MidPointRounding.pdb
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\obj\Debug\netcoreapp2.1\MidPointRounding.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\obj\Debug\netcoreapp2.1\MidPointRounding.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\obj\Debug\netcoreapp2.1\MidPointRounding.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\obj\Debug\netcoreapp2.1\MidPointRounding.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\obj\Debug\netcoreapp2.1\MidPointRounding.dll
+C:\Users\Admin\source\repos\Arrays\MindPointRounding\obj\Debug\netcoreapp2.1\MidPointRounding.pdb

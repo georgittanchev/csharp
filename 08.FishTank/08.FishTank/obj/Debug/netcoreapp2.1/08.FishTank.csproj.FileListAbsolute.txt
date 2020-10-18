@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\bin\Debug\netcoreapp2.1\08.FishTank.deps.json
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\bin\Debug\netcoreapp2.1\08.FishTank.runtimeconfig.json
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\bin\Debug\netcoreapp2.1\08.FishTank.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\bin\Debug\netcoreapp2.1\08.FishTank.dll
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\bin\Debug\netcoreapp2.1\08.FishTank.pdb
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\obj\Debug\netcoreapp2.1\08.FishTank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\obj\Debug\netcoreapp2.1\08.FishTank.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\obj\Debug\netcoreapp2.1\08.FishTank.AssemblyInfo.cs
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\obj\Debug\netcoreapp2.1\08.FishTank.dll
+C:\Users\Admin\source\repos\08.FishTank\08.FishTank\obj\Debug\netcoreapp2.1\08.FishTank.pdb

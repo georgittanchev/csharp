@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\bin\Debug\netcoreapp2.1\04.InchToCM.deps.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\bin\Debug\netcoreapp2.1\04.InchToCM.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\bin\Debug\netcoreapp2.1\04.InchToCM.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\bin\Debug\netcoreapp2.1\04.InchToCM.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\bin\Debug\netcoreapp2.1\04.InchToCM.pdb
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\obj\Debug\netcoreapp2.1\04.InchToCM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\obj\Debug\netcoreapp2.1\04.InchToCM.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\obj\Debug\netcoreapp2.1\04.InchToCM.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\obj\Debug\netcoreapp2.1\04.InchToCM.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\04.InchToCM\obj\Debug\netcoreapp2.1\04.InchToCM.pdb

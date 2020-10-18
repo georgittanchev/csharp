@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\More\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.deps.json
+C:\Users\Admin\source\repos\More\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.runtimeconfig.json
+C:\Users\Admin\source\repos\More\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\More\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.dll
+C:\Users\Admin\source\repos\More\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.pdb
+C:\Users\Admin\source\repos\More\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\More\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\More\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.AssemblyInfo.cs
+C:\Users\Admin\source\repos\More\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.dll
+C:\Users\Admin\source\repos\More\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.pdb

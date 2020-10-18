@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\bin\Debug\netcoreapp2.1\03.EvenOrOdd.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\bin\Debug\netcoreapp2.1\03.EvenOrOdd.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\bin\Debug\netcoreapp2.1\03.EvenOrOdd.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\bin\Debug\netcoreapp2.1\03.EvenOrOdd.dll
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\bin\Debug\netcoreapp2.1\03.EvenOrOdd.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\obj\Debug\netcoreapp2.1\03.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\obj\Debug\netcoreapp2.1\03.EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\obj\Debug\netcoreapp2.1\03.EvenOrOdd.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\obj\Debug\netcoreapp2.1\03.EvenOrOdd.dll
+C:\Users\Admin\source\repos\ConditionalStatements\03.EvenOrOdd\obj\Debug\netcoreapp2.1\03.EvenOrOdd.pdb

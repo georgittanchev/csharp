@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\bin\Debug\netcoreapp3.1\Polyndromenumbers.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\bin\Debug\netcoreapp3.1\Polyndromenumbers.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\bin\Debug\netcoreapp3.1\Polyndromenumbers.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\bin\Debug\netcoreapp3.1\Polyndromenumbers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\bin\Debug\netcoreapp3.1\Polyndromenumbers.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\bin\Debug\netcoreapp3.1\Polyndromenumbers.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\obj\Debug\netcoreapp3.1\Polyndromenumbers.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\obj\Debug\netcoreapp3.1\Polyndromenumbers.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\obj\Debug\netcoreapp3.1\Polyndromenumbers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\obj\Debug\netcoreapp3.1\Polyndromenumbers.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\obj\Debug\netcoreapp3.1\Polyndromenumbers.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\obj\Debug\netcoreapp3.1\Polyndromenumbers.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\Polyndromenumbers\obj\Debug\netcoreapp3.1\Polyndromenumbers.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\bin\Debug\netcoreapp2.1\04.Number1To9.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\bin\Debug\netcoreapp2.1\04.Number1To9.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\bin\Debug\netcoreapp2.1\04.Number1To9.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\bin\Debug\netcoreapp2.1\04.Number1To9.dll
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\bin\Debug\netcoreapp2.1\04.Number1To9.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\obj\Debug\netcoreapp2.1\04.Number1To9.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\obj\Debug\netcoreapp2.1\04.Number1To9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\obj\Debug\netcoreapp2.1\04.Number1To9.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\obj\Debug\netcoreapp2.1\04.Number1To9.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\obj\Debug\netcoreapp2.1\04.Number1To9.dll
+C:\Users\Admin\source\repos\ConditionalStatements\04.Number1To9\obj\Debug\netcoreapp2.1\04.Number1To9.pdb

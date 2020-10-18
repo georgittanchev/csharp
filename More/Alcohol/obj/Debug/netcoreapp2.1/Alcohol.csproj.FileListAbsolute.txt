@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\More\Alcohol\obj\Debug\netcoreapp2.1\Alcohol.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\More\Alcohol\obj\Debug\netcoreapp2.1\Alcohol.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\More\Alcohol\obj\Debug\netcoreapp2.1\Alcohol.AssemblyInfo.cs
+C:\Users\Admin\source\repos\More\Alcohol\bin\Debug\netcoreapp2.1\Alcohol.deps.json
+C:\Users\Admin\source\repos\More\Alcohol\bin\Debug\netcoreapp2.1\Alcohol.runtimeconfig.json
+C:\Users\Admin\source\repos\More\Alcohol\bin\Debug\netcoreapp2.1\Alcohol.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\More\Alcohol\bin\Debug\netcoreapp2.1\Alcohol.dll
+C:\Users\Admin\source\repos\More\Alcohol\bin\Debug\netcoreapp2.1\Alcohol.pdb
+C:\Users\Admin\source\repos\More\Alcohol\obj\Debug\netcoreapp2.1\Alcohol.dll
+C:\Users\Admin\source\repos\More\Alcohol\obj\Debug\netcoreapp2.1\Alcohol.pdb

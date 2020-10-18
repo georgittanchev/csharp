@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\bin\Debug\netcoreapp2.1\03.AccountBalance2.deps.json
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\bin\Debug\netcoreapp2.1\03.AccountBalance2.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\bin\Debug\netcoreapp2.1\03.AccountBalance2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\bin\Debug\netcoreapp2.1\03.AccountBalance2.dll
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\bin\Debug\netcoreapp2.1\03.AccountBalance2.pdb
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\obj\Debug\netcoreapp2.1\03.AccountBalance2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\obj\Debug\netcoreapp2.1\03.AccountBalance2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\obj\Debug\netcoreapp2.1\03.AccountBalance2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\obj\Debug\netcoreapp2.1\03.AccountBalance2.dll
+C:\Users\Admin\source\repos\Solution1\03.AccountBalance2\obj\Debug\netcoreapp2.1\03.AccountBalance2.pdb

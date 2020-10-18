@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\bin\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\bin\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\bin\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\bin\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\bin\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\obj\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\obj\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\obj\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\obj\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\006.TriplesOfLatinLetter\obj\Debug\netcoreapp2.1\006.TriplesOfLatinLetter.pdb

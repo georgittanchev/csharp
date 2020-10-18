@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShrjC0Ty7BEqDICkK5Qc4OPraF24W1uPd8V/54A51QG0YdI6EbbcKbhJw5YB08w9zQQPsFQx3rIxRPjugKAzRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\Arrays\\ConsoleApp1\\SumOnlyEvenNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

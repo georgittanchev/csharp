@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Arrays\AllInOne\bin\Debug\netcoreapp2.1\AllInOne.deps.json
+C:\Users\Admin\source\repos\Arrays\AllInOne\bin\Debug\netcoreapp2.1\AllInOne.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\AllInOne\bin\Debug\netcoreapp2.1\AllInOne.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\AllInOne\bin\Debug\netcoreapp2.1\AllInOne.dll
+C:\Users\Admin\source\repos\Arrays\AllInOne\bin\Debug\netcoreapp2.1\AllInOne.pdb
+C:\Users\Admin\source\repos\Arrays\AllInOne\obj\Debug\netcoreapp2.1\AllInOne.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\AllInOne\obj\Debug\netcoreapp2.1\AllInOne.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\AllInOne\obj\Debug\netcoreapp2.1\AllInOne.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\AllInOne\obj\Debug\netcoreapp2.1\AllInOne.dll
+C:\Users\Admin\source\repos\Arrays\AllInOne\obj\Debug\netcoreapp2.1\AllInOne.pdb
+C:\Users\Admin\source\repos\Arrays\AllInOne\obj\Debug\netcoreapp2.1\AllInOne.csprojAssemblyReference.cache

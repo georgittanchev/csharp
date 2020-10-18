@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.exe
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.deps.json
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.dll
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.pdb
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.dll
+C:\Users\georg\source\repos\StringBuilderExercises\07.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\07.ReplaceRepeatingChars.pdb

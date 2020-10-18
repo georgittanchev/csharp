@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\bin\Debug\netcoreapp2.1\10.MovieTheatre.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\bin\Debug\netcoreapp2.1\10.MovieTheatre.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\bin\Debug\netcoreapp2.1\10.MovieTheatre.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\bin\Debug\netcoreapp2.1\10.MovieTheatre.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\bin\Debug\netcoreapp2.1\10.MovieTheatre.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\obj\Debug\netcoreapp2.1\10.MovieTheatre.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\obj\Debug\netcoreapp2.1\10.MovieTheatre.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\obj\Debug\netcoreapp2.1\10.MovieTheatre.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\obj\Debug\netcoreapp2.1\10.MovieTheatre.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\09.MovieTheatre\obj\Debug\netcoreapp2.1\10.MovieTheatre.pdb

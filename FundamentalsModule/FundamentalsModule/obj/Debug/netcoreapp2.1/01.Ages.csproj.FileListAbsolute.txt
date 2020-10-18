@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\01.Ages.deps.json
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\01.Ages.runtimeconfig.json
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\01.Ages.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\01.Ages.dll
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\01.Ages.pdb
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\01.Ages.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\01.Ages.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\01.Ages.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\01.Ages.dll
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\01.Ages.pdb

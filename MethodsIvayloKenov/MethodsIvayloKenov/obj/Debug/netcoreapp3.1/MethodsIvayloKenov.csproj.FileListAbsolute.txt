@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\bin\Debug\netcoreapp3.1\MethodsIvayloKenov.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\bin\Debug\netcoreapp3.1\MethodsIvayloKenov.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\bin\Debug\netcoreapp3.1\MethodsIvayloKenov.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\bin\Debug\netcoreapp3.1\MethodsIvayloKenov.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\bin\Debug\netcoreapp3.1\MethodsIvayloKenov.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\bin\Debug\netcoreapp3.1\MethodsIvayloKenov.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\obj\Debug\netcoreapp3.1\MethodsIvayloKenov.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\obj\Debug\netcoreapp3.1\MethodsIvayloKenov.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\obj\Debug\netcoreapp3.1\MethodsIvayloKenov.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\obj\Debug\netcoreapp3.1\MethodsIvayloKenov.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\MethodsIvayloKenov\obj\Debug\netcoreapp3.1\MethodsIvayloKenov.pdb

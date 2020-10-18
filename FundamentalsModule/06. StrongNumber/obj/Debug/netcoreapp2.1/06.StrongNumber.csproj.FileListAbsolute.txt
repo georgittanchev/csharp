@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.deps.json
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.runtimeconfig.json
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.dll
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.pdb
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.dll
+C:\Users\Admin\source\repos\FundamentalsModule\06. StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.pdb

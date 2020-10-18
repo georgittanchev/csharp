@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Solution1\14.Vacation\bin\Debug\netcoreapp2.1\14.Vacation.deps.json
+C:\Users\Admin\source\repos\Solution1\14.Vacation\bin\Debug\netcoreapp2.1\14.Vacation.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\14.Vacation\bin\Debug\netcoreapp2.1\14.Vacation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\14.Vacation\bin\Debug\netcoreapp2.1\14.Vacation.dll
+C:\Users\Admin\source\repos\Solution1\14.Vacation\bin\Debug\netcoreapp2.1\14.Vacation.pdb
+C:\Users\Admin\source\repos\Solution1\14.Vacation\obj\Debug\netcoreapp2.1\14.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\14.Vacation\obj\Debug\netcoreapp2.1\14.Vacation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\14.Vacation\obj\Debug\netcoreapp2.1\14.Vacation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\14.Vacation\obj\Debug\netcoreapp2.1\14.Vacation.dll
+C:\Users\Admin\source\repos\Solution1\14.Vacation\obj\Debug\netcoreapp2.1\14.Vacation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\bin\Debug\netcoreapp2.1\02.OddOrEven.deps.json
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\bin\Debug\netcoreapp2.1\02.OddOrEven.runtimeconfig.json
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\bin\Debug\netcoreapp2.1\02.OddOrEven.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\bin\Debug\netcoreapp2.1\02.OddOrEven.dll
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\bin\Debug\netcoreapp2.1\02.OddOrEven.pdb
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\obj\Debug\netcoreapp2.1\02.OddOrEven.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\obj\Debug\netcoreapp2.1\02.OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\obj\Debug\netcoreapp2.1\02.OddOrEven.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\obj\Debug\netcoreapp2.1\02.OddOrEven.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\obj\Debug\netcoreapp2.1\02.OddOrEven.dll
+C:\Users\Admin\source\repos\ForLoops\02.OddOrEven\obj\Debug\netcoreapp2.1\02.OddOrEven.pdb

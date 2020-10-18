@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\bin\Debug\netcoreapp2.1\02. BiggestNumber.deps.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\bin\Debug\netcoreapp2.1\02. BiggestNumber.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\bin\Debug\netcoreapp2.1\02. BiggestNumber.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\bin\Debug\netcoreapp2.1\02. BiggestNumber.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\bin\Debug\netcoreapp2.1\02. BiggestNumber.pdb
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\obj\Debug\netcoreapp2.1\02. BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\obj\Debug\netcoreapp2.1\02. BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\obj\Debug\netcoreapp2.1\02. BiggestNumber.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\obj\Debug\netcoreapp2.1\02. BiggestNumber.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp1\obj\Debug\netcoreapp2.1\02. BiggestNumber.pdb

@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\bin\Debug\netcoreapp3.1\P02.OddOccurences.exe
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\bin\Debug\netcoreapp3.1\P02.OddOccurences.deps.json
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\bin\Debug\netcoreapp3.1\P02.OddOccurences.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\bin\Debug\netcoreapp3.1\P02.OddOccurences.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\bin\Debug\netcoreapp3.1\P02.OddOccurences.dll
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\bin\Debug\netcoreapp3.1\P02.OddOccurences.pdb
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\obj\Debug\netcoreapp3.1\P02.OddOccurences.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\obj\Debug\netcoreapp3.1\P02.OddOccurences.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\obj\Debug\netcoreapp3.1\P02.OddOccurences.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\obj\Debug\netcoreapp3.1\P02.OddOccurences.dll
+C:\Users\georg\source\repos\Dictionaries\P02.OddOccurences\obj\Debug\netcoreapp3.1\P02.OddOccurences.pdb

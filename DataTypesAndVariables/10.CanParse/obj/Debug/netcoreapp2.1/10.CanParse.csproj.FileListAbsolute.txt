@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\bin\Debug\netcoreapp2.1\10.CanParse.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\bin\Debug\netcoreapp2.1\10.CanParse.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\bin\Debug\netcoreapp2.1\10.CanParse.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\bin\Debug\netcoreapp2.1\10.CanParse.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\bin\Debug\netcoreapp2.1\10.CanParse.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\obj\Debug\netcoreapp2.1\10.CanParse.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\obj\Debug\netcoreapp2.1\10.CanParse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\obj\Debug\netcoreapp2.1\10.CanParse.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\obj\Debug\netcoreapp2.1\10.CanParse.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\obj\Debug\netcoreapp2.1\10.CanParse.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\10.CanParse\obj\Debug\netcoreapp2.1\10.CanParse.pdb

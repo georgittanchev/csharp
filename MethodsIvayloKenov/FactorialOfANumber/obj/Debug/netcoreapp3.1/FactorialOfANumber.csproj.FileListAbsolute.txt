@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\bin\Debug\netcoreapp3.1\FactorialOfANumber.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\FactorialOfANumber\obj\Debug\netcoreapp3.1\FactorialOfANumber.genruntimeconfig.cache

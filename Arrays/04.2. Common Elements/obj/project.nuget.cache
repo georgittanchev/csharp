@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFcRObUyf0lkzMxcTgM/5Sb55oC8xtKgsQ42pSPlYG9gjYmH6Pys1j7BG5quvYFxUu4xyow5RdgmhylV7+gdmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\Arrays\\04.2. Common Elements\\04.Common Elements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

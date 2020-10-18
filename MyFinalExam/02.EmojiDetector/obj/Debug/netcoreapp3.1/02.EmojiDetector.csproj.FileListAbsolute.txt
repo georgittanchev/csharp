@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.exe
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.deps.json
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.json
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.dll
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfo.cs
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.dll
+C:\Users\georg\source\repos\MyFinalExam\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.pdb

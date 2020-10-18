@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\FundamentalsModule.deps.json
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\FundamentalsModule.runtimeconfig.json
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\FundamentalsModule.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\FundamentalsModule.dll
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\bin\Debug\netcoreapp2.1\FundamentalsModule.pdb
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\FundamentalsModule.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\FundamentalsModule.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\FundamentalsModule.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\FundamentalsModule.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\FundamentalsModule.dll
+C:\Users\Admin\source\repos\FundamentalsModule\FundamentalsModule\obj\Debug\netcoreapp2.1\FundamentalsModule.pdb

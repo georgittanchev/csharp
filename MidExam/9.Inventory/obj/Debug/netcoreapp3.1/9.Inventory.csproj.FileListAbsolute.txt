@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MidExam\9.Inventory\bin\Debug\netcoreapp3.1\9.Inventory.exe
+C:\Users\georg\source\repos\MidExam\9.Inventory\bin\Debug\netcoreapp3.1\9.Inventory.deps.json
+C:\Users\georg\source\repos\MidExam\9.Inventory\bin\Debug\netcoreapp3.1\9.Inventory.runtimeconfig.json
+C:\Users\georg\source\repos\MidExam\9.Inventory\bin\Debug\netcoreapp3.1\9.Inventory.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MidExam\9.Inventory\bin\Debug\netcoreapp3.1\9.Inventory.dll
+C:\Users\georg\source\repos\MidExam\9.Inventory\bin\Debug\netcoreapp3.1\9.Inventory.pdb
+C:\Users\georg\source\repos\MidExam\9.Inventory\obj\Debug\netcoreapp3.1\9.Inventory.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MidExam\9.Inventory\obj\Debug\netcoreapp3.1\9.Inventory.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MidExam\9.Inventory\obj\Debug\netcoreapp3.1\9.Inventory.AssemblyInfo.cs
+C:\Users\georg\source\repos\MidExam\9.Inventory\obj\Debug\netcoreapp3.1\9.Inventory.dll
+C:\Users\georg\source\repos\MidExam\9.Inventory\obj\Debug\netcoreapp3.1\9.Inventory.pdb

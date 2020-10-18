@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.exe
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.deps.json
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.runtimeconfig.json
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.runtimeconfig.dev.json
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.dll
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.pdb
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.AssemblyInfo.cs
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.dll
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.pdb
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\3.HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\3.HeroesofCodeandLogicVII.genruntimeconfig.cache

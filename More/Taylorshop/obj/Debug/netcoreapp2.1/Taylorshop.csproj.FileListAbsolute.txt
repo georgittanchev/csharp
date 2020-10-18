@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\More\Taylorshop\bin\Debug\netcoreapp2.1\Taylorshop.deps.json
+C:\Users\Admin\source\repos\More\Taylorshop\bin\Debug\netcoreapp2.1\Taylorshop.runtimeconfig.json
+C:\Users\Admin\source\repos\More\Taylorshop\bin\Debug\netcoreapp2.1\Taylorshop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\More\Taylorshop\bin\Debug\netcoreapp2.1\Taylorshop.dll
+C:\Users\Admin\source\repos\More\Taylorshop\bin\Debug\netcoreapp2.1\Taylorshop.pdb
+C:\Users\Admin\source\repos\More\Taylorshop\obj\Debug\netcoreapp2.1\Taylorshop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\More\Taylorshop\obj\Debug\netcoreapp2.1\Taylorshop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\More\Taylorshop\obj\Debug\netcoreapp2.1\Taylorshop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\More\Taylorshop\obj\Debug\netcoreapp2.1\Taylorshop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\More\Taylorshop\obj\Debug\netcoreapp2.1\Taylorshop.dll
+C:\Users\Admin\source\repos\More\Taylorshop\obj\Debug\netcoreapp2.1\Taylorshop.pdb

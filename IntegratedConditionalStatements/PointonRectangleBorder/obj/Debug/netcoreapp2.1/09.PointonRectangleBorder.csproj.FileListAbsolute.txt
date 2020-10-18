@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\bin\Debug\netcoreapp2.1\09.PointonRectangleBorder.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\bin\Debug\netcoreapp2.1\09.PointonRectangleBorder.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\bin\Debug\netcoreapp2.1\09.PointonRectangleBorder.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\bin\Debug\netcoreapp2.1\09.PointonRectangleBorder.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\bin\Debug\netcoreapp2.1\09.PointonRectangleBorder.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\obj\Debug\netcoreapp2.1\09.PointonRectangleBorder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\obj\Debug\netcoreapp2.1\09.PointonRectangleBorder.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\obj\Debug\netcoreapp2.1\09.PointonRectangleBorder.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\obj\Debug\netcoreapp2.1\09.PointonRectangleBorder.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\PointonRectangleBorder\obj\Debug\netcoreapp2.1\09.PointonRectangleBorder.pdb

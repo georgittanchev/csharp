@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\bin\Debug\netcoreapp2.1\09. FigureFaces.deps.json
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\bin\Debug\netcoreapp2.1\09. FigureFaces.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\bin\Debug\netcoreapp2.1\09. FigureFaces.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\bin\Debug\netcoreapp2.1\09. FigureFaces.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\bin\Debug\netcoreapp2.1\09. FigureFaces.pdb
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\obj\Debug\netcoreapp2.1\09. FigureFaces.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\obj\Debug\netcoreapp2.1\09. FigureFaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\obj\Debug\netcoreapp2.1\09. FigureFaces.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\obj\Debug\netcoreapp2.1\09. FigureFaces.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\obj\Debug\netcoreapp2.1\09. FigureFaces.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\FigureFaces\obj\Debug\netcoreapp2.1\09. FigureFaces.pdb

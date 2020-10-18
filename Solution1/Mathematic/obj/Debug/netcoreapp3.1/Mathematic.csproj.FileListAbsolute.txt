@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Solution1\Mathematic\obj\Debug\netcoreapp3.1\Mathematic.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Solution1\Mathematic\obj\Debug\netcoreapp3.1\Mathematic.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Solution1\Mathematic\obj\Debug\netcoreapp3.1\Mathematic.AssemblyInfo.cs
+C:\Users\georg\source\repos\Solution1\Mathematic\bin\Debug\netcoreapp3.1\Mathematic.exe
+C:\Users\georg\source\repos\Solution1\Mathematic\bin\Debug\netcoreapp3.1\Mathematic.deps.json
+C:\Users\georg\source\repos\Solution1\Mathematic\bin\Debug\netcoreapp3.1\Mathematic.runtimeconfig.json
+C:\Users\georg\source\repos\Solution1\Mathematic\bin\Debug\netcoreapp3.1\Mathematic.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Solution1\Mathematic\bin\Debug\netcoreapp3.1\Mathematic.dll
+C:\Users\georg\source\repos\Solution1\Mathematic\bin\Debug\netcoreapp3.1\Mathematic.pdb
+C:\Users\georg\source\repos\Solution1\Mathematic\obj\Debug\netcoreapp3.1\Mathematic.dll
+C:\Users\georg\source\repos\Solution1\Mathematic\obj\Debug\netcoreapp3.1\Mathematic.pdb

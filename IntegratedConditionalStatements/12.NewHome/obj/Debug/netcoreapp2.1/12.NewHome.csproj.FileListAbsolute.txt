@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\bin\Debug\netcoreapp2.1\12.NewHome.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\bin\Debug\netcoreapp2.1\12.NewHome.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\bin\Debug\netcoreapp2.1\12.NewHome.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\bin\Debug\netcoreapp2.1\12.NewHome.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\bin\Debug\netcoreapp2.1\12.NewHome.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\obj\Debug\netcoreapp2.1\12.NewHome.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\obj\Debug\netcoreapp2.1\12.NewHome.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\obj\Debug\netcoreapp2.1\12.NewHome.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\obj\Debug\netcoreapp2.1\12.NewHome.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\obj\Debug\netcoreapp2.1\12.NewHome.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\12.NewHome\obj\Debug\netcoreapp2.1\12.NewHome.csprojAssemblyReference.cache

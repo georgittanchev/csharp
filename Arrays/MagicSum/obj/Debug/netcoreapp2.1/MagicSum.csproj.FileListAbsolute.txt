@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Arrays\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.deps.json
+C:\Users\Admin\source\repos\Arrays\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.dll
+C:\Users\Admin\source\repos\Arrays\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.pdb
+C:\Users\Admin\source\repos\Arrays\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.dll
+C:\Users\Admin\source\repos\Arrays\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.pdb
+C:\Users\Admin\source\repos\Arrays\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\bin\Debug\netcoreapp2.1\05.GreetingByName.deps.json
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\bin\Debug\netcoreapp2.1\05.GreetingByName.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\bin\Debug\netcoreapp2.1\05.GreetingByName.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\bin\Debug\netcoreapp2.1\05.GreetingByName.dll
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\bin\Debug\netcoreapp2.1\05.GreetingByName.pdb
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\obj\Debug\netcoreapp2.1\05.GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\obj\Debug\netcoreapp2.1\05.GreetingByName.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\obj\Debug\netcoreapp2.1\05.GreetingByName.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\obj\Debug\netcoreapp2.1\05.GreetingByName.dll
+C:\Users\Admin\source\repos\FirstProjects\05.GreetingByName\obj\Debug\netcoreapp2.1\05.GreetingByName.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\bin\Debug\netcoreapp2.1\15.NumbersAndOperations.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\bin\Debug\netcoreapp2.1\15.NumbersAndOperations.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\bin\Debug\netcoreapp2.1\15.NumbersAndOperations.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\bin\Debug\netcoreapp2.1\15.NumbersAndOperations.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\bin\Debug\netcoreapp2.1\15.NumbersAndOperations.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\obj\Debug\netcoreapp2.1\15.NumbersAndOperations.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\obj\Debug\netcoreapp2.1\15.NumbersAndOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\obj\Debug\netcoreapp2.1\15.NumbersAndOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\obj\Debug\netcoreapp2.1\15.NumbersAndOperations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\obj\Debug\netcoreapp2.1\15.NumbersAndOperations.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\15.NumbersAndOperations\obj\Debug\netcoreapp2.1\15.NumbersAndOperations.pdb

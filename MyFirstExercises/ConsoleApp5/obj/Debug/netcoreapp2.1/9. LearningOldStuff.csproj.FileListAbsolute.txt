@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\bin\Debug\netcoreapp2.1\9. LearningOldStuff.deps.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\bin\Debug\netcoreapp2.1\9. LearningOldStuff.runtimeconfig.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\bin\Debug\netcoreapp2.1\9. LearningOldStuff.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\bin\Debug\netcoreapp2.1\9. LearningOldStuff.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\bin\Debug\netcoreapp2.1\9. LearningOldStuff.pdb
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\obj\Debug\netcoreapp2.1\9. LearningOldStuff.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\obj\Debug\netcoreapp2.1\9. LearningOldStuff.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\obj\Debug\netcoreapp2.1\9. LearningOldStuff.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\obj\Debug\netcoreapp2.1\9. LearningOldStuff.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp5\obj\Debug\netcoreapp2.1\9. LearningOldStuff.pdb

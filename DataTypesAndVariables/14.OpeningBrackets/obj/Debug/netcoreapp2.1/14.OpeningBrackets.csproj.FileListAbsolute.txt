@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\bin\Debug\netcoreapp2.1\14.OpeningBrackets.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\bin\Debug\netcoreapp2.1\14.OpeningBrackets.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\bin\Debug\netcoreapp2.1\14.OpeningBrackets.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\bin\Debug\netcoreapp2.1\14.OpeningBrackets.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\bin\Debug\netcoreapp2.1\14.OpeningBrackets.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\obj\Debug\netcoreapp2.1\14.OpeningBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\obj\Debug\netcoreapp2.1\14.OpeningBrackets.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\obj\Debug\netcoreapp2.1\14.OpeningBrackets.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\obj\Debug\netcoreapp2.1\14.OpeningBrackets.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\14.OpeningBrackets\obj\Debug\netcoreapp2.1\14.OpeningBrackets.pdb

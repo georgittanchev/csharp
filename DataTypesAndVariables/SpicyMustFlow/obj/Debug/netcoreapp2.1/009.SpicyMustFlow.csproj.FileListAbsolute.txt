@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\bin\Debug\netcoreapp2.1\009.SpicyMustFlow.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\bin\Debug\netcoreapp2.1\009.SpicyMustFlow.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\bin\Debug\netcoreapp2.1\009.SpicyMustFlow.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\bin\Debug\netcoreapp2.1\009.SpicyMustFlow.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\bin\Debug\netcoreapp2.1\009.SpicyMustFlow.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\obj\Debug\netcoreapp2.1\009.SpicyMustFlow.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\obj\Debug\netcoreapp2.1\009.SpicyMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\obj\Debug\netcoreapp2.1\009.SpicyMustFlow.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\obj\Debug\netcoreapp2.1\009.SpicyMustFlow.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\obj\Debug\netcoreapp2.1\009.SpicyMustFlow.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\SpicyMustFlow\obj\Debug\netcoreapp2.1\009.SpicyMustFlow.pdb

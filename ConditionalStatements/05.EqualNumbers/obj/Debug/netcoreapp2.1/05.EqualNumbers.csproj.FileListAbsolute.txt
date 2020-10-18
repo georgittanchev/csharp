@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\bin\Debug\netcoreapp2.1\05.EqualNumbers.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\bin\Debug\netcoreapp2.1\05.EqualNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\bin\Debug\netcoreapp2.1\05.EqualNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\bin\Debug\netcoreapp2.1\05.EqualNumbers.dll
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\bin\Debug\netcoreapp2.1\05.EqualNumbers.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\obj\Debug\netcoreapp2.1\05.EqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\obj\Debug\netcoreapp2.1\05.EqualNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\obj\Debug\netcoreapp2.1\05.EqualNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\obj\Debug\netcoreapp2.1\05.EqualNumbers.dll
+C:\Users\Admin\source\repos\ConditionalStatements\05.EqualNumbers\obj\Debug\netcoreapp2.1\05.EqualNumbers.pdb

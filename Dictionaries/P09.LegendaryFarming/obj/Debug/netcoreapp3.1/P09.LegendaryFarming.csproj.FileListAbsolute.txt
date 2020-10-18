@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\bin\Debug\netcoreapp3.1\P09.LegendaryFarming.exe
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\bin\Debug\netcoreapp3.1\P09.LegendaryFarming.deps.json
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\bin\Debug\netcoreapp3.1\P09.LegendaryFarming.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\bin\Debug\netcoreapp3.1\P09.LegendaryFarming.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\bin\Debug\netcoreapp3.1\P09.LegendaryFarming.dll
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\bin\Debug\netcoreapp3.1\P09.LegendaryFarming.pdb
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\obj\Debug\netcoreapp3.1\P09.LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\obj\Debug\netcoreapp3.1\P09.LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\obj\Debug\netcoreapp3.1\P09.LegendaryFarming.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\obj\Debug\netcoreapp3.1\P09.LegendaryFarming.dll
+C:\Users\georg\source\repos\Dictionaries\P09.LegendaryFarming\obj\Debug\netcoreapp3.1\P09.LegendaryFarming.pdb

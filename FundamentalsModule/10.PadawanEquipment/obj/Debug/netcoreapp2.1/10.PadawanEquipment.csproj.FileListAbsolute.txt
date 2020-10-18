@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\bin\Debug\netcoreapp2.1\10.PadawanEquipment.deps.json
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\bin\Debug\netcoreapp2.1\10.PadawanEquipment.runtimeconfig.json
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\bin\Debug\netcoreapp2.1\10.PadawanEquipment.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\bin\Debug\netcoreapp2.1\10.PadawanEquipment.dll
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\bin\Debug\netcoreapp2.1\10.PadawanEquipment.pdb
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\obj\Debug\netcoreapp2.1\10.PadawanEquipment.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\obj\Debug\netcoreapp2.1\10.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\obj\Debug\netcoreapp2.1\10.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\obj\Debug\netcoreapp2.1\10.PadawanEquipment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\obj\Debug\netcoreapp2.1\10.PadawanEquipment.dll
+C:\Users\Admin\source\repos\FundamentalsModule\10.PadawanEquipment\obj\Debug\netcoreapp2.1\10.PadawanEquipment.pdb

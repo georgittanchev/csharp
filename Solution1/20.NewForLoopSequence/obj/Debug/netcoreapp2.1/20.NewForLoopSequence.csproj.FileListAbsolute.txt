@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\bin\Debug\netcoreapp2.1\20.NewForLoopSequence.deps.json
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\bin\Debug\netcoreapp2.1\20.NewForLoopSequence.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\bin\Debug\netcoreapp2.1\20.NewForLoopSequence.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\bin\Debug\netcoreapp2.1\20.NewForLoopSequence.dll
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\bin\Debug\netcoreapp2.1\20.NewForLoopSequence.pdb
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\obj\Debug\netcoreapp2.1\20.NewForLoopSequence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\obj\Debug\netcoreapp2.1\20.NewForLoopSequence.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\obj\Debug\netcoreapp2.1\20.NewForLoopSequence.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\obj\Debug\netcoreapp2.1\20.NewForLoopSequence.dll
+C:\Users\Admin\source\repos\Solution1\20.NewForLoopSequence\obj\Debug\netcoreapp2.1\20.NewForLoopSequence.pdb

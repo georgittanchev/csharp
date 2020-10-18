@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\bin\Debug\netcoreapp2.1\005.AddAndSubtract.deps.json
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\bin\Debug\netcoreapp2.1\005.AddAndSubtract.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\bin\Debug\netcoreapp2.1\005.AddAndSubtract.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\bin\Debug\netcoreapp2.1\005.AddAndSubtract.dll
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\bin\Debug\netcoreapp2.1\005.AddAndSubtract.pdb
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\obj\Debug\netcoreapp2.1\005.AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\obj\Debug\netcoreapp2.1\005.AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\obj\Debug\netcoreapp2.1\005.AddAndSubtract.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\obj\Debug\netcoreapp2.1\005.AddAndSubtract.dll
+C:\Users\Admin\source\repos\Methods\005.AddAndSubtract\obj\Debug\netcoreapp2.1\005.AddAndSubtract.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\bin\Debug\netcoreapp2.1\11.AnimalClass.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\bin\Debug\netcoreapp2.1\11.AnimalClass.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\bin\Debug\netcoreapp2.1\11.AnimalClass.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\bin\Debug\netcoreapp2.1\11.AnimalClass.dll
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\bin\Debug\netcoreapp2.1\11.AnimalClass.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\obj\Debug\netcoreapp2.1\11.AnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\obj\Debug\netcoreapp2.1\11.AnimalClass.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\obj\Debug\netcoreapp2.1\11.AnimalClass.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\obj\Debug\netcoreapp2.1\11.AnimalClass.dll
+C:\Users\Admin\source\repos\ConditionalStatements\11.AnimalClass\obj\Debug\netcoreapp2.1\11.AnimalClass.pdb

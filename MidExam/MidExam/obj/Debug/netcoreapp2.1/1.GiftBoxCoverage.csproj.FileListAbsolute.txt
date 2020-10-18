@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MidExam\MidExam\bin\Debug\netcoreapp2.1\1.GiftBoxCoverage.deps.json
+C:\Users\Admin\source\repos\MidExam\MidExam\bin\Debug\netcoreapp2.1\1.GiftBoxCoverage.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExam\MidExam\bin\Debug\netcoreapp2.1\1.GiftBoxCoverage.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExam\MidExam\bin\Debug\netcoreapp2.1\1.GiftBoxCoverage.dll
+C:\Users\Admin\source\repos\MidExam\MidExam\bin\Debug\netcoreapp2.1\1.GiftBoxCoverage.pdb
+C:\Users\Admin\source\repos\MidExam\MidExam\obj\Debug\netcoreapp2.1\1.GiftBoxCoverage.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExam\MidExam\obj\Debug\netcoreapp2.1\1.GiftBoxCoverage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExam\MidExam\obj\Debug\netcoreapp2.1\1.GiftBoxCoverage.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExam\MidExam\obj\Debug\netcoreapp2.1\1.GiftBoxCoverage.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExam\MidExam\obj\Debug\netcoreapp2.1\1.GiftBoxCoverage.dll
+C:\Users\Admin\source\repos\MidExam\MidExam\obj\Debug\netcoreapp2.1\1.GiftBoxCoverage.pdb

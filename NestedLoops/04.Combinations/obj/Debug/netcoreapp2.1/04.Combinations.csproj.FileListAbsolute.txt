@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\bin\Debug\netcoreapp2.1\04.Combinations.deps.json
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\bin\Debug\netcoreapp2.1\04.Combinations.runtimeconfig.json
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\bin\Debug\netcoreapp2.1\04.Combinations.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\bin\Debug\netcoreapp2.1\04.Combinations.dll
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\bin\Debug\netcoreapp2.1\04.Combinations.pdb
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\obj\Debug\netcoreapp2.1\04.Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\obj\Debug\netcoreapp2.1\04.Combinations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\obj\Debug\netcoreapp2.1\04.Combinations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\obj\Debug\netcoreapp2.1\04.Combinations.dll
+C:\Users\Admin\source\repos\NestedLoops\04.Combinations\obj\Debug\netcoreapp2.1\04.Combinations.pdb

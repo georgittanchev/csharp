@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\bin\Debug\netcoreapp3.1\08.StringeExplosion.exe
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\bin\Debug\netcoreapp3.1\08.StringeExplosion.deps.json
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\bin\Debug\netcoreapp3.1\08.StringeExplosion.runtimeconfig.json
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\bin\Debug\netcoreapp3.1\08.StringeExplosion.runtimeconfig.dev.json
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\bin\Debug\netcoreapp3.1\08.StringeExplosion.dll
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\bin\Debug\netcoreapp3.1\08.StringeExplosion.pdb
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\obj\Debug\netcoreapp3.1\08.StringeExplosion.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\obj\Debug\netcoreapp3.1\08.StringeExplosion.AssemblyInfo.cs
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\obj\Debug\netcoreapp3.1\08.StringeExplosion.dll
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\obj\Debug\netcoreapp3.1\08.StringeExplosion.pdb
+C:\Users\georg\source\repos\StringBuilderExercises\08.StringeExplosion\obj\Debug\netcoreapp3.1\08.StringeExplosion.csprojAssemblyReference.cache

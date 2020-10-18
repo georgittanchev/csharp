@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\bin\Debug\netcoreapp2.1\01.HelloCSharp.deps.json
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\bin\Debug\netcoreapp2.1\01.HelloCSharp.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\bin\Debug\netcoreapp2.1\01.HelloCSharp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\bin\Debug\netcoreapp2.1\01.HelloCSharp.dll
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\bin\Debug\netcoreapp2.1\01.HelloCSharp.pdb
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\obj\Debug\netcoreapp2.1\01.HelloCSharp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\obj\Debug\netcoreapp2.1\01.HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\obj\Debug\netcoreapp2.1\01.HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\obj\Debug\netcoreapp2.1\01.HelloCSharp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\obj\Debug\netcoreapp2.1\01.HelloCSharp.dll
+C:\Users\Admin\source\repos\FirstProjects\FirstProjects\obj\Debug\netcoreapp2.1\01.HelloCSharp.pdb

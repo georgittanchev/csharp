@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\bin\Debug\netcoreapp2.1\18.DanceHall.deps.json
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\bin\Debug\netcoreapp2.1\18.DanceHall.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\bin\Debug\netcoreapp2.1\18.DanceHall.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\bin\Debug\netcoreapp2.1\18.DanceHall.dll
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\bin\Debug\netcoreapp2.1\18.DanceHall.pdb
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\obj\Debug\netcoreapp2.1\18.DanceHall.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\obj\Debug\netcoreapp2.1\18.DanceHall.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\obj\Debug\netcoreapp2.1\18.DanceHall.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\obj\Debug\netcoreapp2.1\18.DanceHall.dll
+C:\Users\Admin\source\repos\FirstProjects\17.Dance Hall\obj\Debug\netcoreapp2.1\18.DanceHall.pdb

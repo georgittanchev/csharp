@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\bin\Debug\netcoreapp3.1\01.ValidUserNames.exe
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\bin\Debug\netcoreapp3.1\01.ValidUserNames.deps.json
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\bin\Debug\netcoreapp3.1\01.ValidUserNames.runtimeconfig.json
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\bin\Debug\netcoreapp3.1\01.ValidUserNames.runtimeconfig.dev.json
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\bin\Debug\netcoreapp3.1\01.ValidUserNames.dll
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\bin\Debug\netcoreapp3.1\01.ValidUserNames.pdb
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\obj\Debug\netcoreapp3.1\01.ValidUserNames.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\obj\Debug\netcoreapp3.1\01.ValidUserNames.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\obj\Debug\netcoreapp3.1\01.ValidUserNames.AssemblyInfo.cs
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\obj\Debug\netcoreapp3.1\01.ValidUserNames.dll
+C:\Users\georg\source\repos\StringBuilderExercises\StringBuilderExercises\obj\Debug\netcoreapp3.1\01.ValidUserNames.pdb

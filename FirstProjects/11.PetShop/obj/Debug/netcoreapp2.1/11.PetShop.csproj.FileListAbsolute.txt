@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\bin\Debug\netcoreapp2.1\11.PetShop.deps.json
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\bin\Debug\netcoreapp2.1\11.PetShop.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\bin\Debug\netcoreapp2.1\11.PetShop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\bin\Debug\netcoreapp2.1\11.PetShop.dll
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\bin\Debug\netcoreapp2.1\11.PetShop.pdb
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\obj\Debug\netcoreapp2.1\11.PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\obj\Debug\netcoreapp2.1\11.PetShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\obj\Debug\netcoreapp2.1\11.PetShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\obj\Debug\netcoreapp2.1\11.PetShop.dll
+C:\Users\Admin\source\repos\FirstProjects\11.PetShop\obj\Debug\netcoreapp2.1\11.PetShop.pdb

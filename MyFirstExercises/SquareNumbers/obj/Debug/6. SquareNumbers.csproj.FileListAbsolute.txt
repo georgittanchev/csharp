@@ -1,0 +1,6 @@
+c:\users\admin\source\repos\MyFirstExercises\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+c:\users\admin\source\repos\MyFirstExercises\SquareNumbers\bin\Debug\SquareNumbers.exe
+c:\users\admin\source\repos\MyFirstExercises\SquareNumbers\bin\Debug\SquareNumbers.pdb
+c:\users\admin\source\repos\MyFirstExercises\SquareNumbers\obj\Debug\6. SquareNumbers.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\MyFirstExercises\SquareNumbers\obj\Debug\SquareNumbers.exe
+c:\users\admin\source\repos\MyFirstExercises\SquareNumbers\obj\Debug\SquareNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\bin\Debug\netcoreapp3.1\02.FancyBarCodes.exe
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\bin\Debug\netcoreapp3.1\02.FancyBarCodes.deps.json
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\bin\Debug\netcoreapp3.1\02.FancyBarCodes.runtimeconfig.json
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\bin\Debug\netcoreapp3.1\02.FancyBarCodes.runtimeconfig.dev.json
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\bin\Debug\netcoreapp3.1\02.FancyBarCodes.dll
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\bin\Debug\netcoreapp3.1\02.FancyBarCodes.pdb
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\obj\Debug\netcoreapp3.1\02.FancyBarCodes.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\obj\Debug\netcoreapp3.1\02.FancyBarCodes.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\obj\Debug\netcoreapp3.1\02.FancyBarCodes.AssemblyInfo.cs
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\obj\Debug\netcoreapp3.1\02.FancyBarCodes.dll
+C:\Users\georg\source\repos\FinalExamPracticeGroup2\02.FancyBarCodes\obj\Debug\netcoreapp3.1\02.FancyBarCodes.pdb
