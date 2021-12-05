@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\bin\Debug\netcoreapp3.1\04.RepeatAString.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\bin\Debug\netcoreapp3.1\04.RepeatAString.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\bin\Debug\netcoreapp3.1\04.RepeatAString.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\bin\Debug\netcoreapp3.1\04.RepeatAString.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\bin\Debug\netcoreapp3.1\04.RepeatAString.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\bin\Debug\netcoreapp3.1\04.RepeatAString.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\obj\Debug\netcoreapp3.1\04.RepeatAString.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\obj\Debug\netcoreapp3.1\04.RepeatAString.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\obj\Debug\netcoreapp3.1\04.RepeatAString.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\obj\Debug\netcoreapp3.1\04.RepeatAString.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\04.RepeatAString\obj\Debug\netcoreapp3.1\04.RepeatAString.pdb

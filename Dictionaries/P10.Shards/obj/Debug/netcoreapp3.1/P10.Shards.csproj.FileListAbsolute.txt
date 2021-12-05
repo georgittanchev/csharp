@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\bin\Debug\netcoreapp3.1\P10.Shards.exe
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\bin\Debug\netcoreapp3.1\P10.Shards.deps.json
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\bin\Debug\netcoreapp3.1\P10.Shards.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\bin\Debug\netcoreapp3.1\P10.Shards.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\bin\Debug\netcoreapp3.1\P10.Shards.dll
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\bin\Debug\netcoreapp3.1\P10.Shards.pdb
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\obj\Debug\netcoreapp3.1\P10.Shards.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\obj\Debug\netcoreapp3.1\P10.Shards.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\obj\Debug\netcoreapp3.1\P10.Shards.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\obj\Debug\netcoreapp3.1\P10.Shards.dll
+C:\Users\georg\source\repos\Dictionaries\P10.Shards\obj\Debug\netcoreapp3.1\P10.Shards.pdb

@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.exe
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.deps.json
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.runtimeconfig.json
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.runtimeconfig.dev.json
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.dll
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.pdb
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.AssemblyInfo.cs
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.dll
+C:\Users\georg\source\repos\PFFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.pdb

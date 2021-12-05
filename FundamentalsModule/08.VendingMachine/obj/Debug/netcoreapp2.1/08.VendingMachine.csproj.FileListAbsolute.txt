@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\bin\Debug\netcoreapp2.1\08.VendingMachine.deps.json
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\bin\Debug\netcoreapp2.1\08.VendingMachine.runtimeconfig.json
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\bin\Debug\netcoreapp2.1\08.VendingMachine.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\bin\Debug\netcoreapp2.1\08.VendingMachine.dll
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\bin\Debug\netcoreapp2.1\08.VendingMachine.pdb
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\obj\Debug\netcoreapp2.1\08.VendingMachine.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\obj\Debug\netcoreapp2.1\08.VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\obj\Debug\netcoreapp2.1\08.VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\obj\Debug\netcoreapp2.1\08.VendingMachine.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\obj\Debug\netcoreapp2.1\08.VendingMachine.dll
+C:\Users\Admin\source\repos\FundamentalsModule\08.VendingMachine\obj\Debug\netcoreapp2.1\08.VendingMachine.pdb

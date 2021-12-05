@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ForLoops\10.Company\bin\Debug\netcoreapp2.1\10.Company.deps.json
+C:\Users\Admin\source\repos\ForLoops\10.Company\bin\Debug\netcoreapp2.1\10.Company.runtimeconfig.json
+C:\Users\Admin\source\repos\ForLoops\10.Company\bin\Debug\netcoreapp2.1\10.Company.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ForLoops\10.Company\bin\Debug\netcoreapp2.1\10.Company.dll
+C:\Users\Admin\source\repos\ForLoops\10.Company\bin\Debug\netcoreapp2.1\10.Company.pdb
+C:\Users\Admin\source\repos\ForLoops\10.Company\obj\Debug\netcoreapp2.1\10.Company.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ForLoops\10.Company\obj\Debug\netcoreapp2.1\10.Company.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ForLoops\10.Company\obj\Debug\netcoreapp2.1\10.Company.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ForLoops\10.Company\obj\Debug\netcoreapp2.1\10.Company.dll
+C:\Users\Admin\source\repos\ForLoops\10.Company\obj\Debug\netcoreapp2.1\10.Company.pdb
+C:\Users\Admin\source\repos\ForLoops\10.Company\obj\Debug\netcoreapp2.1\10.Company.csprojAssemblyReference.cache

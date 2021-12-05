@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\bin\Debug\netcoreapp2.1\FanyasVendingMachine.deps.json
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\bin\Debug\netcoreapp2.1\FanyasVendingMachine.runtimeconfig.json
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\bin\Debug\netcoreapp2.1\FanyasVendingMachine.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\bin\Debug\netcoreapp2.1\FanyasVendingMachine.dll
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\bin\Debug\netcoreapp2.1\FanyasVendingMachine.pdb
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\obj\Debug\netcoreapp2.1\FanyasVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\obj\Debug\netcoreapp2.1\FanyasVendingMachine.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\obj\Debug\netcoreapp2.1\FanyasVendingMachine.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\obj\Debug\netcoreapp2.1\FanyasVendingMachine.dll
+C:\Users\Admin\source\repos\FundamentalsModule\FanyasVendingMachine\obj\Debug\netcoreapp2.1\FanyasVendingMachine.pdb

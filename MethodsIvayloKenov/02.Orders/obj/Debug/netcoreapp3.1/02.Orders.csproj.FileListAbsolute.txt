@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\bin\Debug\netcoreapp3.1\02.Orders.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\bin\Debug\netcoreapp3.1\02.Orders.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\bin\Debug\netcoreapp3.1\02.Orders.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\bin\Debug\netcoreapp3.1\02.Orders.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\bin\Debug\netcoreapp3.1\02.Orders.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\bin\Debug\netcoreapp3.1\02.Orders.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\obj\Debug\netcoreapp3.1\02.Orders.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\obj\Debug\netcoreapp3.1\02.Orders.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\obj\Debug\netcoreapp3.1\02.Orders.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\02.Orders\obj\Debug\netcoreapp3.1\02.Orders.pdb

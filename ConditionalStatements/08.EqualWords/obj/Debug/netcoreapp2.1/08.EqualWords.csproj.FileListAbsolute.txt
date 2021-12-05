@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\bin\Debug\netcoreapp2.1\08.EqualWords.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\bin\Debug\netcoreapp2.1\08.EqualWords.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\bin\Debug\netcoreapp2.1\08.EqualWords.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\bin\Debug\netcoreapp2.1\08.EqualWords.dll
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\bin\Debug\netcoreapp2.1\08.EqualWords.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\obj\Debug\netcoreapp2.1\08.EqualWords.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\obj\Debug\netcoreapp2.1\08.EqualWords.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\obj\Debug\netcoreapp2.1\08.EqualWords.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\obj\Debug\netcoreapp2.1\08.EqualWords.dll
+C:\Users\Admin\source\repos\ConditionalStatements\08.EqualWords\obj\Debug\netcoreapp2.1\08.EqualWords.pdb

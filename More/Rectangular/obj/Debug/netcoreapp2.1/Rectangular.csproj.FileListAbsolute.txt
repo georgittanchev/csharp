@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\More\Rectangular\bin\Debug\netcoreapp2.1\Rectangular.deps.json
+C:\Users\Admin\source\repos\More\Rectangular\bin\Debug\netcoreapp2.1\Rectangular.runtimeconfig.json
+C:\Users\Admin\source\repos\More\Rectangular\bin\Debug\netcoreapp2.1\Rectangular.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\More\Rectangular\bin\Debug\netcoreapp2.1\Rectangular.dll
+C:\Users\Admin\source\repos\More\Rectangular\bin\Debug\netcoreapp2.1\Rectangular.pdb
+C:\Users\Admin\source\repos\More\Rectangular\obj\Debug\netcoreapp2.1\Rectangular.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\More\Rectangular\obj\Debug\netcoreapp2.1\Rectangular.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\More\Rectangular\obj\Debug\netcoreapp2.1\Rectangular.AssemblyInfo.cs
+C:\Users\Admin\source\repos\More\Rectangular\obj\Debug\netcoreapp2.1\Rectangular.dll
+C:\Users\Admin\source\repos\More\Rectangular\obj\Debug\netcoreapp2.1\Rectangular.pdb

@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\bin\Debug\netcoreapp3.1\03.InboxManager.exe
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\bin\Debug\netcoreapp3.1\03.InboxManager.deps.json
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\bin\Debug\netcoreapp3.1\03.InboxManager.runtimeconfig.json
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\bin\Debug\netcoreapp3.1\03.InboxManager.runtimeconfig.dev.json
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\bin\Debug\netcoreapp3.1\03.InboxManager.dll
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\bin\Debug\netcoreapp3.1\03.InboxManager.pdb
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\obj\Debug\netcoreapp3.1\03.InboxManager.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\obj\Debug\netcoreapp3.1\03.InboxManager.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\obj\Debug\netcoreapp3.1\03.InboxManager.AssemblyInfo.cs
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\obj\Debug\netcoreapp3.1\03.InboxManager.dll
+C:\Users\georg\source\repos\FinalExams\03.InboxManager\obj\Debug\netcoreapp3.1\03.InboxManager.pdb

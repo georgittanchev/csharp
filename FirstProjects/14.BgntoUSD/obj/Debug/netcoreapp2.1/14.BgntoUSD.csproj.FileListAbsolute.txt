@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\bin\Debug\netcoreapp2.1\14.BgntoUSD.deps.json
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\bin\Debug\netcoreapp2.1\14.BgntoUSD.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\bin\Debug\netcoreapp2.1\14.BgntoUSD.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\bin\Debug\netcoreapp2.1\14.BgntoUSD.dll
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\bin\Debug\netcoreapp2.1\14.BgntoUSD.pdb
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\obj\Debug\netcoreapp2.1\14.BgntoUSD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\obj\Debug\netcoreapp2.1\14.BgntoUSD.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\obj\Debug\netcoreapp2.1\14.BgntoUSD.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\obj\Debug\netcoreapp2.1\14.BgntoUSD.dll
+C:\Users\Admin\source\repos\FirstProjects\14.BgntoUSD\obj\Debug\netcoreapp2.1\14.BgntoUSD.pdb

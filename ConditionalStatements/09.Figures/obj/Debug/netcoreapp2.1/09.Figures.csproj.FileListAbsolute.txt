@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\bin\Debug\netcoreapp2.1\09.Figures.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\bin\Debug\netcoreapp2.1\09.Figures.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\bin\Debug\netcoreapp2.1\09.Figures.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\bin\Debug\netcoreapp2.1\09.Figures.dll
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\bin\Debug\netcoreapp2.1\09.Figures.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\obj\Debug\netcoreapp2.1\09.Figures.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\obj\Debug\netcoreapp2.1\09.Figures.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\obj\Debug\netcoreapp2.1\09.Figures.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\obj\Debug\netcoreapp2.1\09.Figures.dll
+C:\Users\Admin\source\repos\ConditionalStatements\09.Figures\obj\Debug\netcoreapp2.1\09.Figures.pdb

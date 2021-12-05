@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\bin\Debug\netcoreapp2.1\01. ExccellentResult.deps.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\bin\Debug\netcoreapp2.1\01. ExccellentResult.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\bin\Debug\netcoreapp2.1\01. ExccellentResult.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\bin\Debug\netcoreapp2.1\01. ExccellentResult.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\bin\Debug\netcoreapp2.1\01. ExccellentResult.pdb
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\obj\Debug\netcoreapp2.1\01. ExccellentResult.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\obj\Debug\netcoreapp2.1\01. ExccellentResult.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\obj\Debug\netcoreapp2.1\01. ExccellentResult.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\obj\Debug\netcoreapp2.1\01. ExccellentResult.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ExccellentResult\obj\Debug\netcoreapp2.1\01. ExccellentResult.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\bin\Debug\netcoreapp2.1\20.AlcoholMarket1.deps.json
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\bin\Debug\netcoreapp2.1\20.AlcoholMarket1.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\bin\Debug\netcoreapp2.1\20.AlcoholMarket1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\bin\Debug\netcoreapp2.1\20.AlcoholMarket1.dll
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\bin\Debug\netcoreapp2.1\20.AlcoholMarket1.pdb
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\obj\Debug\netcoreapp2.1\20.AlcoholMarket1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\obj\Debug\netcoreapp2.1\20.AlcoholMarket1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\obj\Debug\netcoreapp2.1\20.AlcoholMarket1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\obj\Debug\netcoreapp2.1\20.AlcoholMarket1.dll
+C:\Users\Admin\source\repos\FirstProjects\20.AlcoholMarket1\obj\Debug\netcoreapp2.1\20.AlcoholMarket1.pdb

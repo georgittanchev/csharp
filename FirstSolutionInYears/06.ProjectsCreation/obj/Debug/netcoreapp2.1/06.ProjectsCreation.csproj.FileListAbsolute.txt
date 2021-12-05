@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\bin\Debug\netcoreapp2.1\06.ProjectsCreation.deps.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\bin\Debug\netcoreapp2.1\06.ProjectsCreation.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\bin\Debug\netcoreapp2.1\06.ProjectsCreation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\bin\Debug\netcoreapp2.1\06.ProjectsCreation.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\bin\Debug\netcoreapp2.1\06.ProjectsCreation.pdb
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\obj\Debug\netcoreapp2.1\06.ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\obj\Debug\netcoreapp2.1\06.ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\obj\Debug\netcoreapp2.1\06.ProjectsCreation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\obj\Debug\netcoreapp2.1\06.ProjectsCreation.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\06.ProjectsCreation\obj\Debug\netcoreapp2.1\06.ProjectsCreation.pdb

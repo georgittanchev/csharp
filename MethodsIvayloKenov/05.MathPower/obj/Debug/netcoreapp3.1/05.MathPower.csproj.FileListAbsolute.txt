@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\bin\Debug\netcoreapp3.1\05.MathPower.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\bin\Debug\netcoreapp3.1\05.MathPower.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\bin\Debug\netcoreapp3.1\05.MathPower.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\bin\Debug\netcoreapp3.1\05.MathPower.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\bin\Debug\netcoreapp3.1\05.MathPower.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\bin\Debug\netcoreapp3.1\05.MathPower.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\obj\Debug\netcoreapp3.1\05.MathPower.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\obj\Debug\netcoreapp3.1\05.MathPower.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\obj\Debug\netcoreapp3.1\05.MathPower.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\05.MathPower\obj\Debug\netcoreapp3.1\05.MathPower.pdb

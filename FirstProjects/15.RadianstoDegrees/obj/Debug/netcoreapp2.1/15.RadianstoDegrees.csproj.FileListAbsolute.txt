@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\bin\Debug\netcoreapp2.1\15.RadianstoDegrees.deps.json
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\bin\Debug\netcoreapp2.1\15.RadianstoDegrees.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\bin\Debug\netcoreapp2.1\15.RadianstoDegrees.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\bin\Debug\netcoreapp2.1\15.RadianstoDegrees.dll
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\bin\Debug\netcoreapp2.1\15.RadianstoDegrees.pdb
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\obj\Debug\netcoreapp2.1\15.RadianstoDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\obj\Debug\netcoreapp2.1\15.RadianstoDegrees.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\obj\Debug\netcoreapp2.1\15.RadianstoDegrees.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\obj\Debug\netcoreapp2.1\15.RadianstoDegrees.dll
+C:\Users\Admin\source\repos\FirstProjects\15.RadianstoDegrees\obj\Debug\netcoreapp2.1\15.RadianstoDegrees.pdb

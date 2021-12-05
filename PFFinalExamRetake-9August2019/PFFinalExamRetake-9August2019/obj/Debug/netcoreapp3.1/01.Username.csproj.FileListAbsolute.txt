@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\bin\Debug\netcoreapp3.1\01.Username.exe
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\bin\Debug\netcoreapp3.1\01.Username.deps.json
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\bin\Debug\netcoreapp3.1\01.Username.runtimeconfig.json
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\bin\Debug\netcoreapp3.1\01.Username.runtimeconfig.dev.json
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\bin\Debug\netcoreapp3.1\01.Username.dll
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\bin\Debug\netcoreapp3.1\01.Username.pdb
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\obj\Debug\netcoreapp3.1\01.Username.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\obj\Debug\netcoreapp3.1\01.Username.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\obj\Debug\netcoreapp3.1\01.Username.AssemblyInfo.cs
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\obj\Debug\netcoreapp3.1\01.Username.dll
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\PFFinalExamRetake-9August2019\obj\Debug\netcoreapp3.1\01.Username.pdb

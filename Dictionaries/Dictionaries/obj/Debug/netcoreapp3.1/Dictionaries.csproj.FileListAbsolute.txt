@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.exe
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.deps.json
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.pdb

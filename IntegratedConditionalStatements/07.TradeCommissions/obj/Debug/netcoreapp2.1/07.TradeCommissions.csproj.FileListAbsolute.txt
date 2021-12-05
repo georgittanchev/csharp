@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\bin\Debug\netcoreapp2.1\07.TradeCommissions.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\bin\Debug\netcoreapp2.1\07.TradeCommissions.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\bin\Debug\netcoreapp2.1\07.TradeCommissions.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\bin\Debug\netcoreapp2.1\07.TradeCommissions.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\bin\Debug\netcoreapp2.1\07.TradeCommissions.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\obj\Debug\netcoreapp2.1\07.TradeCommissions.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\obj\Debug\netcoreapp2.1\07.TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\obj\Debug\netcoreapp2.1\07.TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\obj\Debug\netcoreapp2.1\07.TradeCommissions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\obj\Debug\netcoreapp2.1\07.TradeCommissions.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\07.TradeCommissions\obj\Debug\netcoreapp2.1\07.TradeCommissions.pdb

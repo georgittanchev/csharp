@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\bin\Debug\netcoreapp2.1\3.HouseParty.deps.json
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\bin\Debug\netcoreapp2.1\3.HouseParty.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\bin\Debug\netcoreapp2.1\3.HouseParty.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\bin\Debug\netcoreapp2.1\3.HouseParty.dll
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\bin\Debug\netcoreapp2.1\3.HouseParty.pdb
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\obj\Debug\netcoreapp2.1\3.HouseParty.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\obj\Debug\netcoreapp2.1\3.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\obj\Debug\netcoreapp2.1\3.HouseParty.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\obj\Debug\netcoreapp2.1\3.HouseParty.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\obj\Debug\netcoreapp2.1\3.HouseParty.dll
+C:\Users\Admin\source\repos\Lists2\3.HouseParty\obj\Debug\netcoreapp2.1\3.HouseParty.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ForLoops\Exam5\bin\Debug\netcoreapp2.1\Exam5.deps.json
+C:\Users\Admin\source\repos\ForLoops\Exam5\bin\Debug\netcoreapp2.1\Exam5.runtimeconfig.json
+C:\Users\Admin\source\repos\ForLoops\Exam5\bin\Debug\netcoreapp2.1\Exam5.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ForLoops\Exam5\bin\Debug\netcoreapp2.1\Exam5.dll
+C:\Users\Admin\source\repos\ForLoops\Exam5\bin\Debug\netcoreapp2.1\Exam5.pdb
+C:\Users\Admin\source\repos\ForLoops\Exam5\obj\Debug\netcoreapp2.1\Exam5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ForLoops\Exam5\obj\Debug\netcoreapp2.1\Exam5.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ForLoops\Exam5\obj\Debug\netcoreapp2.1\Exam5.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ForLoops\Exam5\obj\Debug\netcoreapp2.1\Exam5.dll
+C:\Users\Admin\source\repos\ForLoops\Exam5\obj\Debug\netcoreapp2.1\Exam5.pdb

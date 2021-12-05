@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\bin\Debug\netcoreapp2.1\AreaPerimeterCircle.deps.json
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\bin\Debug\netcoreapp2.1\AreaPerimeterCircle.runtimeconfig.json
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\bin\Debug\netcoreapp2.1\AreaPerimeterCircle.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\bin\Debug\netcoreapp2.1\AreaPerimeterCircle.dll
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\bin\Debug\netcoreapp2.1\AreaPerimeterCircle.pdb
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\obj\Debug\netcoreapp2.1\AreaPerimeterCircle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\obj\Debug\netcoreapp2.1\AreaPerimeterCircle.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\obj\Debug\netcoreapp2.1\AreaPerimeterCircle.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\obj\Debug\netcoreapp2.1\AreaPerimeterCircle.dll
+C:\Users\Admin\source\repos\MyFirstExercises\AreaPerimeterCircle\obj\Debug\netcoreapp2.1\AreaPerimeterCircle.pdb

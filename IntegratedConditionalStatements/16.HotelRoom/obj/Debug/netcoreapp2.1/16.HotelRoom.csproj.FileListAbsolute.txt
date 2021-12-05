@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\bin\Debug\netcoreapp2.1\16.HotelRoom.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\bin\Debug\netcoreapp2.1\16.HotelRoom.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\bin\Debug\netcoreapp2.1\16.HotelRoom.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\bin\Debug\netcoreapp2.1\16.HotelRoom.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\bin\Debug\netcoreapp2.1\16.HotelRoom.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\obj\Debug\netcoreapp2.1\16.HotelRoom.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\obj\Debug\netcoreapp2.1\16.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\obj\Debug\netcoreapp2.1\16.HotelRoom.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\obj\Debug\netcoreapp2.1\16.HotelRoom.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\obj\Debug\netcoreapp2.1\16.HotelRoom.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\16.HotelRoom\obj\Debug\netcoreapp2.1\16.HotelRoom.pdb

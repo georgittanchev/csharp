@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.deps.json
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.dll
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\bin\Debug\netcoreapp2.1\4.ListOperations.pdb
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.dll
+C:\Users\Admin\source\repos\Lists2\4.ListOperations\obj\Debug\netcoreapp2.1\4.ListOperations.pdb

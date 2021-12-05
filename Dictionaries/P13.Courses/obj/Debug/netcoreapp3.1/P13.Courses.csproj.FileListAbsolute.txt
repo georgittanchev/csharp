@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\bin\Debug\netcoreapp3.1\P13.Courses.exe
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\bin\Debug\netcoreapp3.1\P13.Courses.deps.json
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\bin\Debug\netcoreapp3.1\P13.Courses.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\bin\Debug\netcoreapp3.1\P13.Courses.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\bin\Debug\netcoreapp3.1\P13.Courses.dll
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\bin\Debug\netcoreapp3.1\P13.Courses.pdb
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\obj\Debug\netcoreapp3.1\P13.Courses.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\obj\Debug\netcoreapp3.1\P13.Courses.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\obj\Debug\netcoreapp3.1\P13.Courses.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\obj\Debug\netcoreapp3.1\P13.Courses.dll
+C:\Users\georg\source\repos\Dictionaries\P13.Courses\obj\Debug\netcoreapp3.1\P13.Courses.pdb

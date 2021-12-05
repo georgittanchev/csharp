@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.dll
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\bin\Debug\netcoreapp2.1\02.GreaterNumber.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.dll
+C:\Users\Admin\source\repos\ConditionalStatements\02.GreaterNumber\obj\Debug\netcoreapp2.1\02.GreaterNumber.pdb

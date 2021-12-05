@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\bin\Debug\netcoreapp2.1\07.Graduation3.deps.json
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\bin\Debug\netcoreapp2.1\07.Graduation3.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\bin\Debug\netcoreapp2.1\07.Graduation3.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\bin\Debug\netcoreapp2.1\07.Graduation3.dll
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\bin\Debug\netcoreapp2.1\07.Graduation3.pdb
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\obj\Debug\netcoreapp2.1\07.Graduation3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\obj\Debug\netcoreapp2.1\07.Graduation3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\obj\Debug\netcoreapp2.1\07.Graduation3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\obj\Debug\netcoreapp2.1\07.Graduation3.dll
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\obj\Debug\netcoreapp2.1\07.Graduation3.pdb
+C:\Users\Admin\source\repos\Solution1\07.Graduation3\obj\Debug\netcoreapp2.1\07.Graduation3.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\bin\Debug\netcoreapp2.1\2.TaskPlanner.deps.json
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\bin\Debug\netcoreapp2.1\2.TaskPlanner.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\bin\Debug\netcoreapp2.1\2.TaskPlanner.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\bin\Debug\netcoreapp2.1\2.TaskPlanner.dll
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\bin\Debug\netcoreapp2.1\2.TaskPlanner.pdb
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\obj\Debug\netcoreapp2.1\2.TaskPlanner.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\obj\Debug\netcoreapp2.1\2.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\obj\Debug\netcoreapp2.1\2.TaskPlanner.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\obj\Debug\netcoreapp2.1\2.TaskPlanner.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\obj\Debug\netcoreapp2.1\2.TaskPlanner.dll
+C:\Users\Admin\source\repos\MidExam\2.TaskPlanner\obj\Debug\netcoreapp2.1\2.TaskPlanner.pdb

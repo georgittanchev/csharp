@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\bin\Debug\netcoreapp2.1\02.Sequence2K.deps.json
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\bin\Debug\netcoreapp2.1\02.Sequence2K.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\bin\Debug\netcoreapp2.1\02.Sequence2K.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\bin\Debug\netcoreapp2.1\02.Sequence2K.dll
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\bin\Debug\netcoreapp2.1\02.Sequence2K.pdb
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\obj\Debug\netcoreapp2.1\02.Sequence2K.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\obj\Debug\netcoreapp2.1\02.Sequence2K.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\obj\Debug\netcoreapp2.1\02.Sequence2K.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\obj\Debug\netcoreapp2.1\02.Sequence2K.dll
+C:\Users\Admin\source\repos\Solution1\02.Sequence2K\obj\Debug\netcoreapp2.1\02.Sequence2K.pdb

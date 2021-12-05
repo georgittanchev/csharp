@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\obj\Debug\netcoreapp2.1\06.100To200.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\obj\Debug\netcoreapp2.1\06.100To200.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\obj\Debug\netcoreapp2.1\06.100To200.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\bin\Debug\netcoreapp2.1\06.100To200.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\bin\Debug\netcoreapp2.1\06.100To200.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\bin\Debug\netcoreapp2.1\06.100To200.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\bin\Debug\netcoreapp2.1\06.100To200.dll
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\bin\Debug\netcoreapp2.1\06.100To200.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\obj\Debug\netcoreapp2.1\06.100To200.dll
+C:\Users\Admin\source\repos\ConditionalStatements\06.1To100\obj\Debug\netcoreapp2.1\06.100To200.pdb

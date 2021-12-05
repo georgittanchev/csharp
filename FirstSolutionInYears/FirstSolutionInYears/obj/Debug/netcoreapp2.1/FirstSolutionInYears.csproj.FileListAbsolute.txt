@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\bin\Debug\netcoreapp2.1\FirstSolutionInYears.deps.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\bin\Debug\netcoreapp2.1\FirstSolutionInYears.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\bin\Debug\netcoreapp2.1\FirstSolutionInYears.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\bin\Debug\netcoreapp2.1\FirstSolutionInYears.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\bin\Debug\netcoreapp2.1\FirstSolutionInYears.pdb
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\obj\Debug\netcoreapp2.1\FirstSolutionInYears.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\obj\Debug\netcoreapp2.1\FirstSolutionInYears.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\obj\Debug\netcoreapp2.1\FirstSolutionInYears.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\obj\Debug\netcoreapp2.1\FirstSolutionInYears.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\obj\Debug\netcoreapp2.1\FirstSolutionInYears.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\FirstSolutionInYears\obj\Debug\netcoreapp2.1\FirstSolutionInYears.pdb

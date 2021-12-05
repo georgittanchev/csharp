@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\bin\Debug\netcoreapp2.1\ProjectCreation.deps.json
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\bin\Debug\netcoreapp2.1\ProjectCreation.runtimeconfig.json
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\bin\Debug\netcoreapp2.1\ProjectCreation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\bin\Debug\netcoreapp2.1\ProjectCreation.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\bin\Debug\netcoreapp2.1\ProjectCreation.pdb
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\obj\Debug\netcoreapp2.1\ProjectCreation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\obj\Debug\netcoreapp2.1\ProjectCreation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\obj\Debug\netcoreapp2.1\ProjectCreation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\obj\Debug\netcoreapp2.1\ProjectCreation.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ProjectCreation\obj\Debug\netcoreapp2.1\ProjectCreation.pdb

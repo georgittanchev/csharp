@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ActivationKeys.exe
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ActivationKeys.deps.json
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.json
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ActivationKeys.dll
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ActivationKeys.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfo.cs
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ActivationKeys.dll
+C:\Users\georg\source\repos\MyFinalExam\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ActivationKeys.pdb

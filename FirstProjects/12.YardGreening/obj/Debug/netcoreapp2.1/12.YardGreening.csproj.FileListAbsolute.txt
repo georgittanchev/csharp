@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\bin\Debug\netcoreapp2.1\12.YardGreening.deps.json
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\bin\Debug\netcoreapp2.1\12.YardGreening.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\bin\Debug\netcoreapp2.1\12.YardGreening.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\bin\Debug\netcoreapp2.1\12.YardGreening.dll
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\bin\Debug\netcoreapp2.1\12.YardGreening.pdb
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\obj\Debug\netcoreapp2.1\12.YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\obj\Debug\netcoreapp2.1\12.YardGreening.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\obj\Debug\netcoreapp2.1\12.YardGreening.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\obj\Debug\netcoreapp2.1\12.YardGreening.dll
+C:\Users\Admin\source\repos\FirstProjects\12.YardGreening\obj\Debug\netcoreapp2.1\12.YardGreening.pdb

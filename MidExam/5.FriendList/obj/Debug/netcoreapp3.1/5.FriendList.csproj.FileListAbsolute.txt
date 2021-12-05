@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MidExam\5.FriendList\bin\Debug\netcoreapp3.1\5.FriendList.exe
+C:\Users\georg\source\repos\MidExam\5.FriendList\bin\Debug\netcoreapp3.1\5.FriendList.deps.json
+C:\Users\georg\source\repos\MidExam\5.FriendList\bin\Debug\netcoreapp3.1\5.FriendList.runtimeconfig.json
+C:\Users\georg\source\repos\MidExam\5.FriendList\bin\Debug\netcoreapp3.1\5.FriendList.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MidExam\5.FriendList\bin\Debug\netcoreapp3.1\5.FriendList.dll
+C:\Users\georg\source\repos\MidExam\5.FriendList\bin\Debug\netcoreapp3.1\5.FriendList.pdb
+C:\Users\georg\source\repos\MidExam\5.FriendList\obj\Debug\netcoreapp3.1\5.FriendList.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MidExam\5.FriendList\obj\Debug\netcoreapp3.1\5.FriendList.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MidExam\5.FriendList\obj\Debug\netcoreapp3.1\5.FriendList.AssemblyInfo.cs
+C:\Users\georg\source\repos\MidExam\5.FriendList\obj\Debug\netcoreapp3.1\5.FriendList.dll
+C:\Users\georg\source\repos\MidExam\5.FriendList\obj\Debug\netcoreapp3.1\5.FriendList.pdb

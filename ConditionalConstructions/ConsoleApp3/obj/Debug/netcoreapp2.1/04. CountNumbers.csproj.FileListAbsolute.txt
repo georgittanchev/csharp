@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\bin\Debug\netcoreapp2.1\04. CountNumbers.deps.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\bin\Debug\netcoreapp2.1\04. CountNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\bin\Debug\netcoreapp2.1\04. CountNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\bin\Debug\netcoreapp2.1\04. CountNumbers.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\bin\Debug\netcoreapp2.1\04. CountNumbers.pdb
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\obj\Debug\netcoreapp2.1\04. CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\obj\Debug\netcoreapp2.1\04. CountNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\obj\Debug\netcoreapp2.1\04. CountNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\obj\Debug\netcoreapp2.1\04. CountNumbers.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp3\obj\Debug\netcoreapp2.1\04. CountNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\01.MatchNames.exe
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\01.MatchNames.deps.json
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\01.MatchNames.runtimeconfig.json
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\01.MatchNames.runtimeconfig.dev.json
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\01.MatchNames.dll
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\01.MatchNames.pdb
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\01.MatchNames.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\01.MatchNames.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\01.MatchNames.AssemblyInfo.cs
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\01.MatchNames.dll
+C:\Users\georg\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\01.MatchNames.pdb

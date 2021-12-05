@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\bin\Debug\netcoreapp3.1\06.GetMax.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\bin\Debug\netcoreapp3.1\06.GetMax.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\bin\Debug\netcoreapp3.1\06.GetMax.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\bin\Debug\netcoreapp3.1\06.GetMax.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\bin\Debug\netcoreapp3.1\06.GetMax.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\bin\Debug\netcoreapp3.1\06.GetMax.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\obj\Debug\netcoreapp3.1\06.GetMax.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\obj\Debug\netcoreapp3.1\06.GetMax.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\obj\Debug\netcoreapp3.1\06.GetMax.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\06.GetMax\obj\Debug\netcoreapp3.1\06.GetMax.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\bin\Debug\netcoreapp2.1\003.Elevator.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\bin\Debug\netcoreapp2.1\003.Elevator.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\bin\Debug\netcoreapp2.1\003.Elevator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\bin\Debug\netcoreapp2.1\003.Elevator.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\bin\Debug\netcoreapp2.1\003.Elevator.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\obj\Debug\netcoreapp2.1\003.Elevator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\obj\Debug\netcoreapp2.1\003.Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\obj\Debug\netcoreapp2.1\003.Elevator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\obj\Debug\netcoreapp2.1\003.Elevator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\obj\Debug\netcoreapp2.1\003.Elevator.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\003.Elevator\obj\Debug\netcoreapp2.1\003.Elevator.pdb

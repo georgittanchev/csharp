@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\01.EmailValidator.exe
+C:\Users\georg\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\01.EmailValidator.deps.json
+C:\Users\georg\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\01.EmailValidator.runtimeconfig.json
+C:\Users\georg\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\01.EmailValidator.runtimeconfig.dev.json
+C:\Users\georg\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\01.EmailValidator.dll
+C:\Users\georg\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\01.EmailValidator.pdb
+C:\Users\georg\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\01.EmailValidator.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\01.EmailValidator.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\01.EmailValidator.AssemblyInfo.cs
+C:\Users\georg\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\01.EmailValidator.dll
+C:\Users\georg\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\01.EmailValidator.pdb

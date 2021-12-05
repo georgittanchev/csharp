@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\bin\Debug\netcoreapp2.1\09.Dontknow.deps.json
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\bin\Debug\netcoreapp2.1\09.Dontknow.runtimeconfig.json
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\bin\Debug\netcoreapp2.1\09.Dontknow.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\bin\Debug\netcoreapp2.1\09.Dontknow.dll
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\bin\Debug\netcoreapp2.1\09.Dontknow.pdb
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\obj\Debug\netcoreapp2.1\09.Dontknow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\obj\Debug\netcoreapp2.1\09.Dontknow.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\obj\Debug\netcoreapp2.1\09.Dontknow.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\obj\Debug\netcoreapp2.1\09.Dontknow.dll
+C:\Users\Admin\source\repos\ForLoops\09.Dontknow\obj\Debug\netcoreapp2.1\09.Dontknow.pdb

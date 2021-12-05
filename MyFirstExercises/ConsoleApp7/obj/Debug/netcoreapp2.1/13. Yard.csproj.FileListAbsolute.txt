@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\bin\Debug\netcoreapp2.1\13. Yard.deps.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\bin\Debug\netcoreapp2.1\13. Yard.runtimeconfig.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\bin\Debug\netcoreapp2.1\13. Yard.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\bin\Debug\netcoreapp2.1\13. Yard.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\bin\Debug\netcoreapp2.1\13. Yard.pdb
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\obj\Debug\netcoreapp2.1\13. Yard.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\obj\Debug\netcoreapp2.1\13. Yard.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\obj\Debug\netcoreapp2.1\13. Yard.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\obj\Debug\netcoreapp2.1\13. Yard.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp7\obj\Debug\netcoreapp2.1\13. Yard.pdb

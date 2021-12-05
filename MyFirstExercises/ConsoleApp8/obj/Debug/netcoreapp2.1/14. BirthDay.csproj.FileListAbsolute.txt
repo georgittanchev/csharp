@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\bin\Debug\netcoreapp2.1\14. BirthDay.deps.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\bin\Debug\netcoreapp2.1\14. BirthDay.runtimeconfig.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\bin\Debug\netcoreapp2.1\14. BirthDay.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\bin\Debug\netcoreapp2.1\14. BirthDay.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\bin\Debug\netcoreapp2.1\14. BirthDay.pdb
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\obj\Debug\netcoreapp2.1\14. BirthDay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\obj\Debug\netcoreapp2.1\14. BirthDay.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\obj\Debug\netcoreapp2.1\14. BirthDay.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\obj\Debug\netcoreapp2.1\14. BirthDay.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp8\obj\Debug\netcoreapp2.1\14. BirthDay.pdb

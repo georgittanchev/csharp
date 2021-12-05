@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\bin\Debug\netcoreapp2.1\06.TopIntegers.deps.json
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\bin\Debug\netcoreapp2.1\06.TopIntegers.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\bin\Debug\netcoreapp2.1\06.TopIntegers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\bin\Debug\netcoreapp2.1\06.TopIntegers.dll
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\bin\Debug\netcoreapp2.1\06.TopIntegers.pdb
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\obj\Debug\netcoreapp2.1\06.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\obj\Debug\netcoreapp2.1\06.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\obj\Debug\netcoreapp2.1\06.TopIntegers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\obj\Debug\netcoreapp2.1\06.TopIntegers.dll
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\obj\Debug\netcoreapp2.1\06.TopIntegers.pdb
+C:\Users\Admin\source\repos\Arrays\06.TopIntegers\obj\Debug\netcoreapp2.1\06.TopIntegers.csprojAssemblyReference.cache

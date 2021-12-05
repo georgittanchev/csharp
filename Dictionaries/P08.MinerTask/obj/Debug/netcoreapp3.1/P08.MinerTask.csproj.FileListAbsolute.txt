@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\obj\Debug\netcoreapp3.1\P08.MinerTask.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\obj\Debug\netcoreapp3.1\P08.MinerTask.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\obj\Debug\netcoreapp3.1\P08.MinerTask.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\bin\Debug\netcoreapp3.1\P08.MinerTask.exe
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\bin\Debug\netcoreapp3.1\P08.MinerTask.deps.json
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\bin\Debug\netcoreapp3.1\P08.MinerTask.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\bin\Debug\netcoreapp3.1\P08.MinerTask.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\bin\Debug\netcoreapp3.1\P08.MinerTask.dll
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\bin\Debug\netcoreapp3.1\P08.MinerTask.pdb
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\obj\Debug\netcoreapp3.1\P08.MinerTask.dll
+C:\Users\georg\source\repos\Dictionaries\P08.MinerTask\obj\Debug\netcoreapp3.1\P08.MinerTask.pdb

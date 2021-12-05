@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\bin\Debug\netcoreapp2.1\07.NameWars.deps.json
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\bin\Debug\netcoreapp2.1\07.NameWars.runtimeconfig.json
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\bin\Debug\netcoreapp2.1\07.NameWars.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\bin\Debug\netcoreapp2.1\07.NameWars.dll
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\bin\Debug\netcoreapp2.1\07.NameWars.pdb
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\obj\Debug\netcoreapp2.1\07.NameWars.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\obj\Debug\netcoreapp2.1\07.NameWars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\obj\Debug\netcoreapp2.1\07.NameWars.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\obj\Debug\netcoreapp2.1\07.NameWars.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\obj\Debug\netcoreapp2.1\07.NameWars.dll
+C:\Users\Admin\source\repos\NestedLoops\07.NameWars\obj\Debug\netcoreapp2.1\07.NameWars.pdb

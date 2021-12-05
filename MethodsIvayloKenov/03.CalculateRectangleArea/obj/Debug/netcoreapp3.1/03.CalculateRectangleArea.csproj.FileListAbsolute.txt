@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\bin\Debug\netcoreapp3.1\03.CalculateRectangleArea.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\bin\Debug\netcoreapp3.1\03.CalculateRectangleArea.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\bin\Debug\netcoreapp3.1\03.CalculateRectangleArea.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\bin\Debug\netcoreapp3.1\03.CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\bin\Debug\netcoreapp3.1\03.CalculateRectangleArea.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\bin\Debug\netcoreapp3.1\03.CalculateRectangleArea.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\obj\Debug\netcoreapp3.1\03.CalculateRectangleArea.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\obj\Debug\netcoreapp3.1\03.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\obj\Debug\netcoreapp3.1\03.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\obj\Debug\netcoreapp3.1\03.CalculateRectangleArea.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\03.CalculateRectangleArea\obj\Debug\netcoreapp3.1\03.CalculateRectangleArea.pdb

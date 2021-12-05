@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\bin\Debug\netcoreapp2.1\07.SquareArea.deps.json
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\bin\Debug\netcoreapp2.1\07.SquareArea.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\bin\Debug\netcoreapp2.1\07.SquareArea.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\bin\Debug\netcoreapp2.1\07.SquareArea.dll
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\bin\Debug\netcoreapp2.1\07.SquareArea.pdb
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\obj\Debug\netcoreapp2.1\07.SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\obj\Debug\netcoreapp2.1\07.SquareArea.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\obj\Debug\netcoreapp2.1\07.SquareArea.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\obj\Debug\netcoreapp2.1\07.SquareArea.dll
+C:\Users\Admin\source\repos\FirstProjects\07.SquareArea\obj\Debug\netcoreapp2.1\07.SquareArea.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\obj\Debug\netcoreapp2.1\05.HalfSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\obj\Debug\netcoreapp2.1\05.HalfSum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\obj\Debug\netcoreapp2.1\05.HalfSum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\bin\Debug\netcoreapp2.1\05.HalfSum.deps.json
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\bin\Debug\netcoreapp2.1\05.HalfSum.runtimeconfig.json
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\bin\Debug\netcoreapp2.1\05.HalfSum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\bin\Debug\netcoreapp2.1\05.HalfSum.dll
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\bin\Debug\netcoreapp2.1\05.HalfSum.pdb
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\obj\Debug\netcoreapp2.1\05.HalfSum.dll
+C:\Users\Admin\source\repos\ForLoops\05.HalfSum\obj\Debug\netcoreapp2.1\05.HalfSum.pdb

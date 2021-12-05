@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Solution1\LatinLetters\bin\Debug\netcoreapp2.1\18.LatinLetters.deps.json
+C:\Users\Admin\source\repos\Solution1\LatinLetters\bin\Debug\netcoreapp2.1\18.LatinLetters.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\LatinLetters\bin\Debug\netcoreapp2.1\18.LatinLetters.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\LatinLetters\bin\Debug\netcoreapp2.1\18.LatinLetters.dll
+C:\Users\Admin\source\repos\Solution1\LatinLetters\bin\Debug\netcoreapp2.1\18.LatinLetters.pdb
+C:\Users\Admin\source\repos\Solution1\LatinLetters\obj\Debug\netcoreapp2.1\18.LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\LatinLetters\obj\Debug\netcoreapp2.1\18.LatinLetters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\LatinLetters\obj\Debug\netcoreapp2.1\18.LatinLetters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\LatinLetters\obj\Debug\netcoreapp2.1\18.LatinLetters.dll
+C:\Users\Admin\source\repos\Solution1\LatinLetters\obj\Debug\netcoreapp2.1\18.LatinLetters.pdb

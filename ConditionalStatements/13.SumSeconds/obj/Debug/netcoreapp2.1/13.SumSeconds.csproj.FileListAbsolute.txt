@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\bin\Debug\netcoreapp2.1\13.SumSeconds.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\bin\Debug\netcoreapp2.1\13.SumSeconds.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\bin\Debug\netcoreapp2.1\13.SumSeconds.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\bin\Debug\netcoreapp2.1\13.SumSeconds.dll
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\bin\Debug\netcoreapp2.1\13.SumSeconds.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\obj\Debug\netcoreapp2.1\13.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\obj\Debug\netcoreapp2.1\13.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\obj\Debug\netcoreapp2.1\13.SumSeconds.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\obj\Debug\netcoreapp2.1\13.SumSeconds.dll
+C:\Users\Admin\source\repos\ConditionalStatements\13.SumSeconds\obj\Debug\netcoreapp2.1\13.SumSeconds.pdb

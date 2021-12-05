@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\bin\Debug\netcoreapp2.1\06.ConcatenateData.deps.json
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\bin\Debug\netcoreapp2.1\06.ConcatenateData.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\bin\Debug\netcoreapp2.1\06.ConcatenateData.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\bin\Debug\netcoreapp2.1\06.ConcatenateData.dll
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\bin\Debug\netcoreapp2.1\06.ConcatenateData.pdb
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\obj\Debug\netcoreapp2.1\06.ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\obj\Debug\netcoreapp2.1\06.ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\obj\Debug\netcoreapp2.1\06.ConcatenateData.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\obj\Debug\netcoreapp2.1\06.ConcatenateData.dll
+C:\Users\Admin\source\repos\FirstProjects\06.ConcatenateData\obj\Debug\netcoreapp2.1\06.ConcatenateData.pdb

@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\bin\Debug\netcoreapp3.1\P06.CountChars.exe
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\bin\Debug\netcoreapp3.1\P06.CountChars.deps.json
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\bin\Debug\netcoreapp3.1\P06.CountChars.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\bin\Debug\netcoreapp3.1\P06.CountChars.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\bin\Debug\netcoreapp3.1\P06.CountChars.dll
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\bin\Debug\netcoreapp3.1\P06.CountChars.pdb
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\obj\Debug\netcoreapp3.1\P06.CountChars.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\obj\Debug\netcoreapp3.1\P06.CountChars.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\obj\Debug\netcoreapp3.1\P06.CountChars.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\obj\Debug\netcoreapp3.1\P06.CountChars.dll
+C:\Users\georg\source\repos\Dictionaries\P06.CountChars\obj\Debug\netcoreapp3.1\P06.CountChars.pdb

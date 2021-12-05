@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\bin\Debug\netcoreapp2.1\0004.SumOfChars.deps.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\bin\Debug\netcoreapp2.1\0004.SumOfChars.runtimeconfig.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\bin\Debug\netcoreapp2.1\0004.SumOfChars.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\bin\Debug\netcoreapp2.1\0004.SumOfChars.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\bin\Debug\netcoreapp2.1\0004.SumOfChars.pdb
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\obj\Debug\netcoreapp2.1\0004.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\obj\Debug\netcoreapp2.1\0004.SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\obj\Debug\netcoreapp2.1\0004.SumOfChars.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\obj\Debug\netcoreapp2.1\0004.SumOfChars.dll
+C:\Users\Admin\source\repos\DataTypesAndVariables\0004.SumOfChars\obj\Debug\netcoreapp2.1\0004.SumOfChars.pdb

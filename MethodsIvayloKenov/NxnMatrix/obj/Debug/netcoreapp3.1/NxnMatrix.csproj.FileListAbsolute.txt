@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\bin\Debug\netcoreapp3.1\NxnMatrix.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\bin\Debug\netcoreapp3.1\NxnMatrix.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\bin\Debug\netcoreapp3.1\NxnMatrix.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\bin\Debug\netcoreapp3.1\NxnMatrix.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\bin\Debug\netcoreapp3.1\NxnMatrix.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\bin\Debug\netcoreapp3.1\NxnMatrix.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\obj\Debug\netcoreapp3.1\NxnMatrix.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\obj\Debug\netcoreapp3.1\NxnMatrix.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\obj\Debug\netcoreapp3.1\NxnMatrix.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\obj\Debug\netcoreapp3.1\NxnMatrix.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\obj\Debug\netcoreapp3.1\NxnMatrix.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\NxnMatrix\obj\Debug\netcoreapp3.1\NxnMatrix.genruntimeconfig.cache

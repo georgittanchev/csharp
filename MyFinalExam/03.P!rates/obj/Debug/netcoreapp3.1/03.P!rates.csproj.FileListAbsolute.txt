@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.exe
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.deps.json
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.json
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.dll
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.pdb
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfo.cs
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.dll
+C:\Users\georg\source\repos\MyFinalExam\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\bin\Debug\netcoreapp2.1\02.Shop.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\bin\Debug\netcoreapp2.1\02.Shop.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\bin\Debug\netcoreapp2.1\02.Shop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\bin\Debug\netcoreapp2.1\02.Shop.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\bin\Debug\netcoreapp2.1\02.Shop.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\obj\Debug\netcoreapp2.1\02.Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\obj\Debug\netcoreapp2.1\02.Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\obj\Debug\netcoreapp2.1\02.Shop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\obj\Debug\netcoreapp2.1\02.Shop.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\02.Shop\obj\Debug\netcoreapp2.1\02.Shop.pdb

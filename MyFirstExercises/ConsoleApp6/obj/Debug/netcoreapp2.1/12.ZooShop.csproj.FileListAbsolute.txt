@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\bin\Debug\netcoreapp2.1\12.ZooShop.deps.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\bin\Debug\netcoreapp2.1\12.ZooShop.runtimeconfig.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\bin\Debug\netcoreapp2.1\12.ZooShop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\bin\Debug\netcoreapp2.1\12.ZooShop.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\bin\Debug\netcoreapp2.1\12.ZooShop.pdb
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\obj\Debug\netcoreapp2.1\12.ZooShop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\obj\Debug\netcoreapp2.1\12.ZooShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\obj\Debug\netcoreapp2.1\12.ZooShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\obj\Debug\netcoreapp2.1\12.ZooShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\obj\Debug\netcoreapp2.1\12.ZooShop.dll
+C:\Users\Admin\source\repos\MyFirstExercises\ConsoleApp6\obj\Debug\netcoreapp2.1\12.ZooShop.pdb

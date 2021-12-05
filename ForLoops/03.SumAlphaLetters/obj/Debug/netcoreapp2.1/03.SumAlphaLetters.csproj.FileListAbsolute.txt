@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\bin\Debug\netcoreapp2.1\03.SumAlphaLetters.deps.json
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\bin\Debug\netcoreapp2.1\03.SumAlphaLetters.runtimeconfig.json
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\bin\Debug\netcoreapp2.1\03.SumAlphaLetters.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\bin\Debug\netcoreapp2.1\03.SumAlphaLetters.dll
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\bin\Debug\netcoreapp2.1\03.SumAlphaLetters.pdb
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\obj\Debug\netcoreapp2.1\03.SumAlphaLetters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\obj\Debug\netcoreapp2.1\03.SumAlphaLetters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\obj\Debug\netcoreapp2.1\03.SumAlphaLetters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\obj\Debug\netcoreapp2.1\03.SumAlphaLetters.dll
+C:\Users\Admin\source\repos\ForLoops\03.SumAlphaLetters\obj\Debug\netcoreapp2.1\03.SumAlphaLetters.pdb

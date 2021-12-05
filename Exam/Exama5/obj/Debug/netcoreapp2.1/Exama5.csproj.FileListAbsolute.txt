@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Exam\Exama5\bin\Debug\netcoreapp2.1\Exama5.deps.json
+C:\Users\Admin\source\repos\Exam\Exama5\bin\Debug\netcoreapp2.1\Exama5.runtimeconfig.json
+C:\Users\Admin\source\repos\Exam\Exama5\bin\Debug\netcoreapp2.1\Exama5.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Exam\Exama5\bin\Debug\netcoreapp2.1\Exama5.dll
+C:\Users\Admin\source\repos\Exam\Exama5\bin\Debug\netcoreapp2.1\Exama5.pdb
+C:\Users\Admin\source\repos\Exam\Exama5\obj\Debug\netcoreapp2.1\Exama5.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Exam\Exama5\obj\Debug\netcoreapp2.1\Exama5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Exam\Exama5\obj\Debug\netcoreapp2.1\Exama5.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Exam\Exama5\obj\Debug\netcoreapp2.1\Exama5.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Exam\Exama5\obj\Debug\netcoreapp2.1\Exama5.dll
+C:\Users\Admin\source\repos\Exam\Exama5\obj\Debug\netcoreapp2.1\Exama5.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\MyFirstExercises\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Admin\source\repos\MyFirstExercises\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Admin\source\repos\MyFirstExercises\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Admin\source\repos\MyFirstExercises\MyFirstProject\obj\Debug\1. HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyFirstExercises\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Admin\source\repos\MyFirstExercises\MyFirstProject\obj\Debug\MyFirstProject.pdb

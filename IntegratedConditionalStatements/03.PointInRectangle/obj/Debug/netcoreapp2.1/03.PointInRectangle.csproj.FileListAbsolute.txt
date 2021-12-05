@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\bin\Debug\netcoreapp2.1\03.PointInRectangle.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\bin\Debug\netcoreapp2.1\03.PointInRectangle.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\bin\Debug\netcoreapp2.1\03.PointInRectangle.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\bin\Debug\netcoreapp2.1\03.PointInRectangle.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\bin\Debug\netcoreapp2.1\03.PointInRectangle.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\obj\Debug\netcoreapp2.1\03.PointInRectangle.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\obj\Debug\netcoreapp2.1\03.PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\obj\Debug\netcoreapp2.1\03.PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\obj\Debug\netcoreapp2.1\03.PointInRectangle.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\obj\Debug\netcoreapp2.1\03.PointInRectangle.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\03.PointInRectangle\obj\Debug\netcoreapp2.1\03.PointInRectangle.pdb

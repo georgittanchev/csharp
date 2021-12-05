@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Solution1\03.accBalance\bin\Debug\netcoreapp2.1\03.accBalance.deps.json
+C:\Users\Admin\source\repos\Solution1\03.accBalance\bin\Debug\netcoreapp2.1\03.accBalance.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\03.accBalance\bin\Debug\netcoreapp2.1\03.accBalance.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\03.accBalance\bin\Debug\netcoreapp2.1\03.accBalance.dll
+C:\Users\Admin\source\repos\Solution1\03.accBalance\bin\Debug\netcoreapp2.1\03.accBalance.pdb
+C:\Users\Admin\source\repos\Solution1\03.accBalance\obj\Debug\netcoreapp2.1\03.accBalance.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Solution1\03.accBalance\obj\Debug\netcoreapp2.1\03.accBalance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\03.accBalance\obj\Debug\netcoreapp2.1\03.accBalance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\03.accBalance\obj\Debug\netcoreapp2.1\03.accBalance.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\03.accBalance\obj\Debug\netcoreapp2.1\03.accBalance.dll
+C:\Users\Admin\source\repos\Solution1\03.accBalance\obj\Debug\netcoreapp2.1\03.accBalance.pdb

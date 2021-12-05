@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\bin\Debug\netcoreapp2.1\3.FroggySquad.deps.json
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\bin\Debug\netcoreapp2.1\3.FroggySquad.runtimeconfig.json
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\bin\Debug\netcoreapp2.1\3.FroggySquad.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\bin\Debug\netcoreapp2.1\3.FroggySquad.dll
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\bin\Debug\netcoreapp2.1\3.FroggySquad.pdb
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\obj\Debug\netcoreapp2.1\3.FroggySquad.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\obj\Debug\netcoreapp2.1\3.FroggySquad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\obj\Debug\netcoreapp2.1\3.FroggySquad.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\obj\Debug\netcoreapp2.1\3.FroggySquad.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\obj\Debug\netcoreapp2.1\3.FroggySquad.dll
+C:\Users\Admin\source\repos\MidExam\3.FroggySquad\obj\Debug\netcoreapp2.1\3.FroggySquad.pdb

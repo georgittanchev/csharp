@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\bin\Debug\netcoreapp2.1\03.MathSqrt.deps.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\bin\Debug\netcoreapp2.1\03.MathSqrt.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\bin\Debug\netcoreapp2.1\03.MathSqrt.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\bin\Debug\netcoreapp2.1\03.MathSqrt.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\bin\Debug\netcoreapp2.1\03.MathSqrt.pdb
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\obj\Debug\netcoreapp2.1\03.MathSqrt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\obj\Debug\netcoreapp2.1\03.MathSqrt.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\obj\Debug\netcoreapp2.1\03.MathSqrt.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\obj\Debug\netcoreapp2.1\03.MathSqrt.dll
+C:\Users\Admin\source\repos\FirstSolutionInYears\03.MathSqrt\obj\Debug\netcoreapp2.1\03.MathSqrt.pdb

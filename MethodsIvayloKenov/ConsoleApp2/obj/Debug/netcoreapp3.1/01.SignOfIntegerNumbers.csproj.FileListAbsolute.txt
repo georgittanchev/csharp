@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.exe
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.deps.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\georg\source\repos\MethodsIvayloKenov\ConsoleApp2\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.csprojAssemblyReference.cache

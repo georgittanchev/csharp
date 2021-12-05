@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp2.1\01.ExcellentResult.deps.json
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp2.1\01.ExcellentResult.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp2.1\01.ExcellentResult.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp2.1\01.ExcellentResult.dll
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\bin\Debug\netcoreapp2.1\01.ExcellentResult.pdb
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp2.1\01.ExcellentResult.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp2.1\01.ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp2.1\01.ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp2.1\01.ExcellentResult.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp2.1\01.ExcellentResult.dll
+C:\Users\Admin\source\repos\ConditionalStatements\01.ExcellentResult\obj\Debug\netcoreapp2.1\01.ExcellentResult.pdb

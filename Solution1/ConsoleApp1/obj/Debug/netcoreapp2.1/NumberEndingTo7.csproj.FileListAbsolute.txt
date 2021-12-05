@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp2.1\NumberEndingTo7.deps.json
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp2.1\NumberEndingTo7.runtimeconfig.json
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp2.1\NumberEndingTo7.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp2.1\NumberEndingTo7.dll
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\bin\Debug\netcoreapp2.1\NumberEndingTo7.pdb
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp2.1\NumberEndingTo7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp2.1\NumberEndingTo7.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp2.1\NumberEndingTo7.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp2.1\NumberEndingTo7.dll
+C:\Users\Admin\source\repos\Solution1\ConsoleApp1\obj\Debug\netcoreapp2.1\NumberEndingTo7.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\bin\Debug\netcoreapp2.1\19.CharityCampaign.deps.json
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\bin\Debug\netcoreapp2.1\19.CharityCampaign.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\bin\Debug\netcoreapp2.1\19.CharityCampaign.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\bin\Debug\netcoreapp2.1\19.CharityCampaign.dll
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\bin\Debug\netcoreapp2.1\19.CharityCampaign.pdb
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\obj\Debug\netcoreapp2.1\19.CharityCampaign.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\obj\Debug\netcoreapp2.1\19.CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\obj\Debug\netcoreapp2.1\19.CharityCampaign.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\obj\Debug\netcoreapp2.1\19.CharityCampaign.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\obj\Debug\netcoreapp2.1\19.CharityCampaign.dll
+C:\Users\Admin\source\repos\FirstProjects\19.CharityCampaign\obj\Debug\netcoreapp2.1\19.CharityCampaign.pdb

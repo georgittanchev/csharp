@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\bin\Debug\netcoreapp3.1\7.ArcheryTournament.exe
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\bin\Debug\netcoreapp3.1\7.ArcheryTournament.deps.json
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\bin\Debug\netcoreapp3.1\7.ArcheryTournament.runtimeconfig.json
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\bin\Debug\netcoreapp3.1\7.ArcheryTournament.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\bin\Debug\netcoreapp3.1\7.ArcheryTournament.dll
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\bin\Debug\netcoreapp3.1\7.ArcheryTournament.pdb
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\obj\Debug\netcoreapp3.1\7.ArcheryTournament.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\obj\Debug\netcoreapp3.1\7.ArcheryTournament.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\obj\Debug\netcoreapp3.1\7.ArcheryTournament.AssemblyInfo.cs
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\obj\Debug\netcoreapp3.1\7.ArcheryTournament.dll
+C:\Users\georg\source\repos\MidExam\7.ArcheryTournament\obj\Debug\netcoreapp3.1\7.ArcheryTournament.pdb

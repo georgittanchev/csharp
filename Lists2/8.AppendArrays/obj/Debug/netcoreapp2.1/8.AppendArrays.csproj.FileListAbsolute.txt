@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\bin\Debug\netcoreapp2.1\8.AppendArrays.deps.json
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\bin\Debug\netcoreapp2.1\8.AppendArrays.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\bin\Debug\netcoreapp2.1\8.AppendArrays.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\bin\Debug\netcoreapp2.1\8.AppendArrays.dll
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\bin\Debug\netcoreapp2.1\8.AppendArrays.pdb
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\obj\Debug\netcoreapp2.1\8.AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\obj\Debug\netcoreapp2.1\8.AppendArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\obj\Debug\netcoreapp2.1\8.AppendArrays.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\obj\Debug\netcoreapp2.1\8.AppendArrays.dll
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\obj\Debug\netcoreapp2.1\8.AppendArrays.pdb
+C:\Users\Admin\source\repos\Lists2\8.AppendArrays\obj\Debug\netcoreapp2.1\8.AppendArrays.csprojAssemblyReference.cache

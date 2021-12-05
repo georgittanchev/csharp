@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\bin\Debug\netcoreapp2.1\06.EvenOrOddPositions.deps.json
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\bin\Debug\netcoreapp2.1\06.EvenOrOddPositions.runtimeconfig.json
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\bin\Debug\netcoreapp2.1\06.EvenOrOddPositions.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\bin\Debug\netcoreapp2.1\06.EvenOrOddPositions.dll
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\bin\Debug\netcoreapp2.1\06.EvenOrOddPositions.pdb
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\obj\Debug\netcoreapp2.1\06.EvenOrOddPositions.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\obj\Debug\netcoreapp2.1\06.EvenOrOddPositions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\obj\Debug\netcoreapp2.1\06.EvenOrOddPositions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\obj\Debug\netcoreapp2.1\06.EvenOrOddPositions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\obj\Debug\netcoreapp2.1\06.EvenOrOddPositions.dll
+C:\Users\Admin\source\repos\ForLoops\06.EvenOrOddPositions\obj\Debug\netcoreapp2.1\06.EvenOrOddPositions.pdb

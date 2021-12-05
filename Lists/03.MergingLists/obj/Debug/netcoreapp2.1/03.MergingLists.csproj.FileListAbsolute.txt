@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Lists\03.MergingLists\bin\Debug\netcoreapp2.1\03.MergingLists.deps.json
+C:\Users\Admin\source\repos\Lists\03.MergingLists\bin\Debug\netcoreapp2.1\03.MergingLists.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists\03.MergingLists\bin\Debug\netcoreapp2.1\03.MergingLists.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists\03.MergingLists\bin\Debug\netcoreapp2.1\03.MergingLists.dll
+C:\Users\Admin\source\repos\Lists\03.MergingLists\bin\Debug\netcoreapp2.1\03.MergingLists.pdb
+C:\Users\Admin\source\repos\Lists\03.MergingLists\obj\Debug\netcoreapp2.1\03.MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists\03.MergingLists\obj\Debug\netcoreapp2.1\03.MergingLists.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists\03.MergingLists\obj\Debug\netcoreapp2.1\03.MergingLists.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists\03.MergingLists\obj\Debug\netcoreapp2.1\03.MergingLists.dll
+C:\Users\Admin\source\repos\Lists\03.MergingLists\obj\Debug\netcoreapp2.1\03.MergingLists.pdb

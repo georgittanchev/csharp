@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\bin\Debug\netcoreapp2.1\18.Voleyball.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\bin\Debug\netcoreapp2.1\18.Voleyball.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\bin\Debug\netcoreapp2.1\18.Voleyball.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\bin\Debug\netcoreapp2.1\18.Voleyball.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\bin\Debug\netcoreapp2.1\18.Voleyball.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\obj\Debug\netcoreapp2.1\18.Voleyball.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\obj\Debug\netcoreapp2.1\18.Voleyball.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\obj\Debug\netcoreapp2.1\18.Voleyball.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\obj\Debug\netcoreapp2.1\18.Voleyball.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\obj\Debug\netcoreapp2.1\18.Voleyball.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\18.Voleyball\obj\Debug\netcoreapp2.1\18.Voleyball.pdb

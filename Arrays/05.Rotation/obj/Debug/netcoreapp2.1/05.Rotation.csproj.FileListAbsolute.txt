@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Arrays\05.Rotation\bin\Debug\netcoreapp2.1\05.Rotation.deps.json
+C:\Users\Admin\source\repos\Arrays\05.Rotation\bin\Debug\netcoreapp2.1\05.Rotation.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays\05.Rotation\bin\Debug\netcoreapp2.1\05.Rotation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays\05.Rotation\bin\Debug\netcoreapp2.1\05.Rotation.dll
+C:\Users\Admin\source\repos\Arrays\05.Rotation\bin\Debug\netcoreapp2.1\05.Rotation.pdb
+C:\Users\Admin\source\repos\Arrays\05.Rotation\obj\Debug\netcoreapp2.1\05.Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays\05.Rotation\obj\Debug\netcoreapp2.1\05.Rotation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays\05.Rotation\obj\Debug\netcoreapp2.1\05.Rotation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays\05.Rotation\obj\Debug\netcoreapp2.1\05.Rotation.dll
+C:\Users\Admin\source\repos\Arrays\05.Rotation\obj\Debug\netcoreapp2.1\05.Rotation.pdb

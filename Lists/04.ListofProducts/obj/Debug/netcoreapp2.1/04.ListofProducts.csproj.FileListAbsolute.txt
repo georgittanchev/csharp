@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\bin\Debug\netcoreapp2.1\04.ListofProducts.deps.json
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\bin\Debug\netcoreapp2.1\04.ListofProducts.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\bin\Debug\netcoreapp2.1\04.ListofProducts.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\bin\Debug\netcoreapp2.1\04.ListofProducts.dll
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\bin\Debug\netcoreapp2.1\04.ListofProducts.pdb
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\obj\Debug\netcoreapp2.1\04.ListofProducts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\obj\Debug\netcoreapp2.1\04.ListofProducts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\obj\Debug\netcoreapp2.1\04.ListofProducts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\obj\Debug\netcoreapp2.1\04.ListofProducts.dll
+C:\Users\Admin\source\repos\Lists\04.ListofProducts\obj\Debug\netcoreapp2.1\04.ListofProducts.pdb

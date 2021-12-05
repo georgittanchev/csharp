@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\bin\Debug\netcoreapp2.1\HotelBusiness1.deps.json
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\bin\Debug\netcoreapp2.1\HotelBusiness1.runtimeconfig.json
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\bin\Debug\netcoreapp2.1\HotelBusiness1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\bin\Debug\netcoreapp2.1\HotelBusiness1.dll
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\bin\Debug\netcoreapp2.1\HotelBusiness1.pdb
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\obj\Debug\netcoreapp2.1\HotelBusiness1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\obj\Debug\netcoreapp2.1\HotelBusiness1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\obj\Debug\netcoreapp2.1\HotelBusiness1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\obj\Debug\netcoreapp2.1\HotelBusiness1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\obj\Debug\netcoreapp2.1\HotelBusiness1.dll
+C:\Users\Admin\source\repos\Fantasy\HotelBusiness1\obj\Debug\netcoreapp2.1\HotelBusiness1.pdb

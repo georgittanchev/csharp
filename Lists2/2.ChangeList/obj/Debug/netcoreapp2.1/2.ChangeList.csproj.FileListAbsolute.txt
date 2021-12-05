@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.deps.json
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.dll
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\bin\Debug\netcoreapp2.1\2.ChangeList.pdb
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.dll
+C:\Users\Admin\source\repos\Lists2\2.ChangeList\obj\Debug\netcoreapp2.1\2.ChangeList.pdb

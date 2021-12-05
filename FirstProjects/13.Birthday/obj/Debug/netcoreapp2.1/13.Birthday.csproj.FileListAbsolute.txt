@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\bin\Debug\netcoreapp2.1\13.Birthday.deps.json
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\bin\Debug\netcoreapp2.1\13.Birthday.runtimeconfig.json
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\bin\Debug\netcoreapp2.1\13.Birthday.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\bin\Debug\netcoreapp2.1\13.Birthday.dll
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\bin\Debug\netcoreapp2.1\13.Birthday.pdb
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\obj\Debug\netcoreapp2.1\13.Birthday.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\obj\Debug\netcoreapp2.1\13.Birthday.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\obj\Debug\netcoreapp2.1\13.Birthday.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\obj\Debug\netcoreapp2.1\13.Birthday.dll
+C:\Users\Admin\source\repos\FirstProjects\13.Birthday\obj\Debug\netcoreapp2.1\13.Birthday.pdb

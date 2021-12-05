@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\bin\Debug\netcoreapp2.1\08. SameWords.deps.json
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\bin\Debug\netcoreapp2.1\08. SameWords.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\bin\Debug\netcoreapp2.1\08. SameWords.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\bin\Debug\netcoreapp2.1\08. SameWords.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\bin\Debug\netcoreapp2.1\08. SameWords.pdb
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\obj\Debug\netcoreapp2.1\08. SameWords.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\obj\Debug\netcoreapp2.1\08. SameWords.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\obj\Debug\netcoreapp2.1\08. SameWords.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\obj\Debug\netcoreapp2.1\08. SameWords.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\08. SameWords\obj\Debug\netcoreapp2.1\08. SameWords.pdb

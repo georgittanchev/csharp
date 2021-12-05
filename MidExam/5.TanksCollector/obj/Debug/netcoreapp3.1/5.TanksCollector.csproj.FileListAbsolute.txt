@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\bin\Debug\netcoreapp3.1\5.TanksCollector.exe
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\bin\Debug\netcoreapp3.1\5.TanksCollector.deps.json
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\bin\Debug\netcoreapp3.1\5.TanksCollector.runtimeconfig.json
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\bin\Debug\netcoreapp3.1\5.TanksCollector.runtimeconfig.dev.json
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\bin\Debug\netcoreapp3.1\5.TanksCollector.dll
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\bin\Debug\netcoreapp3.1\5.TanksCollector.pdb
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\obj\Debug\netcoreapp3.1\5.TanksCollector.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\obj\Debug\netcoreapp3.1\5.TanksCollector.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\obj\Debug\netcoreapp3.1\5.TanksCollector.AssemblyInfo.cs
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\obj\Debug\netcoreapp3.1\5.TanksCollector.dll
+C:\Users\georg\source\repos\MidExam\5.TanksCollector\obj\Debug\netcoreapp3.1\5.TanksCollector.pdb

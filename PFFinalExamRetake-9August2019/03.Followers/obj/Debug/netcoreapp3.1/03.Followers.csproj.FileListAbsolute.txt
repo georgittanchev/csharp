@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.AssemblyInfo.cs
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.exe
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.deps.json
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.runtimeconfig.json
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.dll
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.pdb
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.dll
+C:\Users\georg\source\repos\PFFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.pdb

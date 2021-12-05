@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\bin\Debug\netcoreapp2.1\06.FruitShop.deps.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\bin\Debug\netcoreapp2.1\06.FruitShop.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\bin\Debug\netcoreapp2.1\06.FruitShop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\bin\Debug\netcoreapp2.1\06.FruitShop.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\bin\Debug\netcoreapp2.1\06.FruitShop.pdb
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\obj\Debug\netcoreapp2.1\06.FruitShop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\obj\Debug\netcoreapp2.1\06.FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\obj\Debug\netcoreapp2.1\06.FruitShop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\obj\Debug\netcoreapp2.1\06.FruitShop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\obj\Debug\netcoreapp2.1\06.FruitShop.dll
+C:\Users\Admin\source\repos\IntegratedConditionalStatements\06.FruitShop\obj\Debug\netcoreapp2.1\06.FruitShop.pdb

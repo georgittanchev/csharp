@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\P01.CountRealNumbers.exe
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\P01.CountRealNumbers.deps.json
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\P01.CountRealNumbers.runtimeconfig.json
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\P01.CountRealNumbers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\P01.CountRealNumbers.dll
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\P01.CountRealNumbers.pdb
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\P01.CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\P01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\P01.CountRealNumbers.AssemblyInfo.cs
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\P01.CountRealNumbers.dll
+C:\Users\georg\source\repos\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\P01.CountRealNumbers.pdb

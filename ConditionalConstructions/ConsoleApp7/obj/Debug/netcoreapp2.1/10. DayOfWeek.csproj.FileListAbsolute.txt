@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\bin\Debug\netcoreapp2.1\10. DayOfWeek.deps.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\bin\Debug\netcoreapp2.1\10. DayOfWeek.runtimeconfig.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\bin\Debug\netcoreapp2.1\10. DayOfWeek.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\bin\Debug\netcoreapp2.1\10. DayOfWeek.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\bin\Debug\netcoreapp2.1\10. DayOfWeek.pdb
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\obj\Debug\netcoreapp2.1\10. DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\obj\Debug\netcoreapp2.1\10. DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\obj\Debug\netcoreapp2.1\10. DayOfWeek.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\obj\Debug\netcoreapp2.1\10. DayOfWeek.dll
+C:\Users\Admin\source\repos\ConditionalConstructions\ConsoleApp7\obj\Debug\netcoreapp2.1\10. DayOfWeek.pdb
